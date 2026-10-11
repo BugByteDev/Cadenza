@@ -25,7 +25,7 @@ jobs:
         with:
           node-version: '22'
       - if: runner.os == 'Linux'
-        run: sudo apt-get update && sudo apt-get install -y build-essential python3-tk libsdl2-dev libsdl2-mixer-dev libsdl2-image-dev libsdl2-ttf-dev
+        run: sudo apt-get update && sudo apt-get install -y build-essential python3-tk libsdl2-dev libsdl2-mixer-dev libsdl2-image-dev libsdl2-ttf-dev xvfb
       - if: runner.os == 'Windows'
         uses: msys2/setup-msys2@v2
         with:
@@ -38,16 +38,28 @@ jobs:
       - if: runner.os == 'Linux'
         run: bash packaging/build_ffmpeg.sh
       - run: python -m pip install pyinstaller==6.16.0 pygame==2.6.1 setuptools wheel
-      - run: python packaging/package_desktop.py
+      - if: runner.os == 'Windows'
+        run: python packaging/package_desktop.py
         env:
           CADENZA_PACKAGE: ${{ matrix.label }}
           SDL_AUDIODRIVER: dummy
+      - if: runner.os == 'Linux'
+        run: xvfb-run -a python packaging/package_desktop.py
+        env:
+          CADENZA_PACKAGE: ${{ matrix.label }}
+          SDL_AUDIODRIVER: dummy
+      - if: runner.os == 'Windows'
+        run: |
+          choco install innosetup --yes --no-progress
+          & 'C:\Program Files (x86)\Inno Setup 6\ISCC.exe' packaging/windows.iss
       - uses: actions/upload-artifact@v4
         with:
           name: Cadenza-${{ matrix.label }}
-          path: build/Cadenza-${{ matrix.label }}.zip
+          path: build/Cadenza-${{ matrix.label }}*.zip
       - name: Publish desktop download
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release upload v0.4.0 "build/Cadenza-${{ matrix.label }}.zip" --clobber
+        run: |
+          gh release upload v0.4.0 "build/Cadenza-${{ matrix.label }}.zip" --clobber
+          if [ -f build/Cadenza-Windows-x64-Setup.exe ]; then gh release upload v0.4.0 build/Cadenza-Windows-x64-Setup.exe --clobber; fi
