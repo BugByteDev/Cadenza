@@ -1,6 +1,7 @@
 """Direct playback of recorded piano samples, with no oscillator or sample loops."""
 import array,json,math,struct,subprocess,sys,zipfile,shutil
 from pathlib import Path
+from runtime import executable
 def render(piece,output,rate=44100):
  bank=Path(__file__).parent/'sounds'/'Salamander-Piano.pcm.zip'
  with zipfile.ZipFile(bank) as z:
@@ -31,7 +32,7 @@ def render(piece,output,rate=44100):
  peak=max(abs(v) for v in mix)
  if peak<1e-6:raise RuntimeError('Recorded piano output is silent')
  gain=.85/peak;energy=0.
- encoder=shutil.which('ffmpeg')
+ encoder=executable('ffmpeg')
  if not encoder:raise RuntimeError('Install FFmpeg to export recorded piano audio')
  process=subprocess.Popen([encoder,'-v','error','-y','-f','s16le','-ar',str(rate),'-ac','1','-i','pipe:0','-ac','2','-c:a','aac','-b:a','128k',str(output)],stdin=subprocess.PIPE,stderr=subprocess.PIPE)
  try:

@@ -1,13 +1,14 @@
 """Cross-platform sampled audio rendering. Piano recordings or bundled SF2 engine."""
 import json,shutil,subprocess,tempfile,sys
 from pathlib import Path
+from runtime import executable
 ROOT=Path(__file__).resolve().parent
 
 def render(piece,output,rate=44100):
     if all(p==0 for p in piece.get('programs',[0,0])):
         from render_sampled_piano import render as piano
         return piano(piece,output,rate)
-    node=shutil.which('node');encoder=shutil.which('ffmpeg')
+    node=executable('node');encoder=executable('ffmpeg')
     if not node or not encoder:raise RuntimeError('Install Node.js and FFmpeg, then reopen Cadenza.')
     with tempfile.TemporaryDirectory(prefix='cadenza-') as temp:
         source=Path(temp)/'piece.json';source.write_text(json.dumps(piece))

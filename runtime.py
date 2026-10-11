@@ -4,6 +4,8 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parent
 
 def executable(name):
+    bundled=ROOT/'runtime'/(name+'.exe' if sys.platform=='win32' else name)
+    if bundled.is_file():return str(bundled)
     found=shutil.which(name)
     if found:return found
     for directory in ['/opt/homebrew/bin','/usr/local/bin']:
@@ -18,3 +20,8 @@ def data_dir():
     elif sys.platform=='darwin':folder=Path.home()/'Library/Application Support/Cadenza/generated'
     else:folder=Path(os.environ.get('XDG_DATA_HOME',Path.home()/'.local/share'))/'Cadenza/generated'
     folder.mkdir(parents=True,exist_ok=True);return folder
+
+
+def child_command(mode, *args):
+    if getattr(sys, 'frozen', False):return [sys.executable, mode, *map(str,args)]
+    return [sys.executable, str(ROOT/'desktop.py'), mode, *map(str,args)]

@@ -2,7 +2,7 @@
 import base64,json,queue,shutil,subprocess,threading,sys,os,tkinter as tk
 from tkinter import ttk,filedialog,messagebox
 from pathlib import Path
-from runtime import data_dir, executable
+from runtime import data_dir, executable, child_command
 ROOT=Path(__file__).resolve().parent
 BG='#101a20';FG='#edf0e7';ACCENT='#c6e7ae';MUTED='#96a8aa';PANEL='#19262d'
 PALETTES={'Grand piano':'piano','Violin & cello':'violin','Flute & harp':'flute','String ensemble':'strings','Clarinet & bassoon':'winds','Surprise me':'random'}
@@ -128,7 +128,7 @@ class Cadenza:
    self.events.put(('status','Selected the strongest candidate. Rendering sampled instruments…'))
    piece_path=folder/(stem+'.json');piece_path.write_text(json.dumps(piece))
    if self.closed:return
-   self.render_process=subprocess.Popen([sys.executable,str(ROOT/'render_piano.py'),str(piece_path),str(paths['m4a'])],stdout=subprocess.PIPE,stderr=subprocess.PIPE,text=True)
+   self.render_process=subprocess.Popen(child_command('--render',piece_path,paths['m4a']),stdout=subprocess.PIPE,stderr=subprocess.PIPE,text=True)
    output,error=self.render_process.communicate()
    if self.render_process.returncode:raise RuntimeError(error[-400:])
    self.events.put(('ready',json.loads(output)))
@@ -161,10 +161,7 @@ class Cadenza:
    self.roll.create_rectangle(x,y,x+max(2,n['duration']/end*width),y+2,fill=ACCENT if n['voice']==0 else '#82956a',outline='')
  def toggle(self):
   if self.player:self.stop();return
-  player=shutil.which('ffplay')
-  if player:self.player=subprocess.Popen([player,'-nodisp','-autoexit','-loglevel','error',str(self.paths['m4a'])],stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
-  elif sys.platform=='darwin':self.player=subprocess.Popen(['/usr/bin/afplay',str(self.paths['m4a'])])
-  else:messagebox.showerror('Playback unavailable','Install FFmpeg with ffplay, then reopen Cadenza.');return
+  self.player=subprocess.Popen(child_command('--play',self.paths['m4a']),stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
   self.play.config(text='■ Stop')
  def stop(self):
   if self.player and self.player.poll() is None:self.player.terminate()
@@ -180,4 +177,14 @@ class Cadenza:
   for process in [self.engine_process,self.render_process]:
    if process and process.poll() is None:process.terminate()
   self.root.destroy()
-if __name__=='__main__':Cadenza().root.mainloop()
+if __name__=='__main__':
+ if len(sys.argv)>1 and sys.argv[1]=='--render':
+  from render_portable import render
+  print(json.dumps(render(json.loads(Path(sys.argv[2]).read_text()),Path(sys.argv[3]))))
+ elif len(sys.argv)>1 and sys.argv[1]=='--play':
+  from playback import play
+  play(Path(sys.argv[2]))
+ elif len(sys.argv)>1 and sys.argv[1]=='--smoke':
+  from packaged_smoke import check
+  check()
+ else:Cadenza().root.mainloop()
