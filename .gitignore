@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.openai/
+node_modules/
+generated/
+Cadenza.app/
+dist/sounds/
+sample.json
+sample.mid
+*.log
+build/

@@ -1,0 +1,9 @@
+{
+  "unique_downloaded_midi_files": 2666,
+  "catalogue_editions": 1110,
+  "composers": 227,
+  "supplement_source": "https://www.mutopiaproject.org/",
+  "license_filter": "Public Domain",
+  "archive_sha256": "3ec1a466d7f55a9c1edbb218cbc2d19c62b381cff940d961f98cfb2da5bd11dd",
+  "note": "Files include conductor tracks and separate instrument/movement parts; they are not all separate complete works."
+}

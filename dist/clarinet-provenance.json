@@ -1,0 +1,1851 @@
+{
+  "records": [
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Piano Trio Opus 11 (1st Movement)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1197",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O11/Trio_op11_1/Trio_op11_1.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O11/Trio_op11_1/Trio_op11_1.mid",
+      "archive_member": "Trio_op11_1.mid",
+      "sha256": "52f8cb332fa481d3747cb5f1cb84e2ed3cfb57c514b918feb9fab10c20c9576e",
+      "file": "52f8cb332fa481d3747cb5f1cb84e2ed3cfb57c514b918feb9fab10c20c9576e.mid",
+      "split": "validation",
+      "extracted_frames": 564
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Piano Trio Opus 11 (3rd Movement)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1198",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O11/Trio_op11_3/Trio_op11_3.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O11/Trio_op11_3/Trio_op11_3.mid",
+      "archive_member": "Trio_op11_3.mid",
+      "sha256": "d4a2dc28a81b55fd7881935e509b35b030a4155df0b294d1a66bd65863088877",
+      "file": "d4a2dc28a81b55fd7881935e509b35b030a4155df0b294d1a66bd65863088877.mid",
+      "split": "validation",
+      "extracted_frames": 500
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Piano Concerto No. 3 in C Minor (1st Movement: Allegro con brio)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=899",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O37/Concerto_No3/Concerto_No3.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O37/Concerto_No3/Concerto_No3.mid",
+      "archive_member": "Concerto_No3.mid",
+      "sha256": "98c38dde40c1e95f12634277a8261306eae686abdd66d38f552c553cf90315df",
+      "file": "98c38dde40c1e95f12634277a8261306eae686abdd66d38f552c553cf90315df.mid",
+      "split": "validation",
+      "extracted_frames": 368
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Concerto for Violin and Orchestra in D Major (1st Movement)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=990",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O61/violin_concerto_1/violin_concerto_1.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O61/violin_concerto_1/violin_concerto_1.mid",
+      "archive_member": "violin_concerto_1.mid",
+      "sha256": "69fd077ebe5536528f1a6b92c51492b5b740f39bfbe77afe6389410bcb6401b1",
+      "file": "69fd077ebe5536528f1a6b92c51492b5b740f39bfbe77afe6389410bcb6401b1.mid",
+      "split": "validation",
+      "extracted_frames": 459
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Concerto for Violin and Orchestra in D Major (2nd Movement)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1021",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O61/violin_concerto_2/violin_concerto_2.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O61/violin_concerto_2/violin_concerto_2.mid",
+      "archive_member": "violin_concerto_2.mid",
+      "sha256": "2b2726438897d1475368206054122eab6ac3c0006275799555b55fadc08db474",
+      "file": "2b2726438897d1475368206054122eab6ac3c0006275799555b55fadc08db474.mid",
+      "split": "validation",
+      "extracted_frames": 83
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Concerto for Violin and Orchestra in D Major (3rd Movement)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1165",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O61/violin_concerto_3/violin_concerto_3.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O61/violin_concerto_3/violin_concerto_3.mid",
+      "archive_member": "violin_concerto_3.mid",
+      "sha256": "f6d5ff304993ef0a4e351fe7424fda03b9fde74c0658aa4c2bb0decb682ecc2f",
+      "file": "f6d5ff304993ef0a4e351fe7424fda03b9fde74c0658aa4c2bb0decb682ecc2f.mid",
+      "split": "validation",
+      "extracted_frames": 373
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Symphony No. 5 - Opus 67 (1st Movement)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=941",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O67/Symphony5_1/Symphony5_1.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O67/Symphony5_1/Symphony5_1.mid",
+      "archive_member": "Symphony5_1.mid",
+      "sha256": "0ce1bca911ba8e6234fd2e474a9b6da4c968c5cfe85b0cccfe7e56505df52046",
+      "file": "0ce1bca911ba8e6234fd2e474a9b6da4c968c5cfe85b0cccfe7e56505df52046.mid",
+      "split": "validation",
+      "extracted_frames": 498
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Symphony No. 5 - Opus 67 (2nd Movement)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1437",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O67/Symphony5_2/Symphony5_2.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O67/Symphony5_2/Symphony5_2.mid",
+      "archive_member": "Symphony5_2.mid",
+      "sha256": "3f360acfb2e3c4608fb396d0b2ca82d06921ea9fc3946ece46294f24461d7bac",
+      "file": "3f360acfb2e3c4608fb396d0b2ca82d06921ea9fc3946ece46294f24461d7bac.mid",
+      "split": "validation",
+      "extracted_frames": 436
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Ouverture Coriolan",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=57",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O62/Coriolan/Coriolan-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O62/Coriolan/Coriolan-mids.zip",
+      "archive_member": "clarinetti-part.mid",
+      "sha256": "04aaed7df4cbb5147b1d5178cda49fd2475eddf6ec8ed9b0e45d6dab79befa2d",
+      "file": "04aaed7df4cbb5147b1d5178cda49fd2475eddf6ec8ed9b0e45d6dab79befa2d.mid",
+      "split": "validation",
+      "extracted_frames": 359
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Ouverture Coriolan",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=57",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O62/Coriolan/Coriolan-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O62/Coriolan/Coriolan-mids.zip",
+      "archive_member": "coriolan.mid",
+      "sha256": "bce9f014df59f7fefbc02a9616b74de40ba3afbb9ec22b118f91f41c7c1806ee",
+      "file": "bce9f014df59f7fefbc02a9616b74de40ba3afbb9ec22b118f91f41c7c1806ee.mid",
+      "split": "validation",
+      "extracted_frames": 359
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Fidelio Overture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=377",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip",
+      "archive_member": "clarinettiA_sc.mid",
+      "sha256": "c5f459bd5689542a023b9b27dcf085f9baabaecf990a94d446f25c610fe47336",
+      "file": "c5f459bd5689542a023b9b27dcf085f9baabaecf990a94d446f25c610fe47336.mid",
+      "split": "validation",
+      "extracted_frames": 521
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Fidelio Overture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=377",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip",
+      "archive_member": "fidelio.mid",
+      "sha256": "f127b091d90713dd2aa192305ff0b68b8066de00ff31eb8856618736f097edcd",
+      "file": "f127b091d90713dd2aa192305ff0b68b8066de00ff31eb8856618736f097edcd.mid",
+      "split": "validation",
+      "extracted_frames": 521
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Symphony No. 7 in A Major (2nd Movement: Allegretto)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=595",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O92/Symphony7_2/Symphony7_2.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O92/Symphony7_2/Symphony7_2.mid",
+      "archive_member": "Symphony7_2.mid",
+      "sha256": "7cf810b4625b9a272d3a0a9153d8beb5750fa3ee64122dc9f27b7661e997b903",
+      "file": "7cf810b4625b9a272d3a0a9153d8beb5750fa3ee64122dc9f27b7661e997b903.mid",
+      "split": "validation",
+      "extracted_frames": 289
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Symphony No. 7 in A Major (1st Movement: Poco sostenuto - Vivace)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=891",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O92/Symphony7_1/Symphony7_1.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O92/Symphony7_1/Symphony7_1.mid",
+      "archive_member": "Symphony7_1.mid",
+      "sha256": "59a53b8393227ce1f6dc601f3d4c19cdf95a7bcd318ec110ab9943ce7c9f624c",
+      "file": "59a53b8393227ce1f6dc601f3d4c19cdf95a7bcd318ec110ab9943ce7c9f624c.mid",
+      "split": "validation",
+      "extracted_frames": 1228
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Overture to Egmont",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=547",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O84/Egmont/Egmont.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O84/Egmont/Egmont.mid",
+      "archive_member": "Egmont.mid",
+      "sha256": "f189d4dfbd6058a144555393bfd3f116e751310ffb5134a5b98193ba92ba548e",
+      "file": "f189d4dfbd6058a144555393bfd3f116e751310ffb5134a5b98193ba92ba548e.mid",
+      "split": "validation",
+      "extracted_frames": 484
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Marsch - WoO 29",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=991",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/WoO29/marsch_woo29/marsch_woo29.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/WoO29/marsch_woo29/marsch_woo29.mid",
+      "archive_member": "marsch_woo29.mid",
+      "sha256": "d9a28a3f4410f3a29ba2938a32964b956ccb84449e38ff4fcf2df32fbfbb90ca",
+      "file": "d9a28a3f4410f3a29ba2938a32964b956ccb84449e38ff4fcf2df32fbfbb90ca.mid",
+      "split": "validation",
+      "extracted_frames": 224
+    },
+    {
+      "composer": "E. Cavallini (1807\u20131874)",
+      "title": "Thirty Caprices: No. 1",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1463",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo1/CavalliniNo1.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo1/CavalliniNo1.mid",
+      "archive_member": "CavalliniNo1.mid",
+      "sha256": "a3271349680406b8df7739e10cc9379fd627803a0bd997f58e0b9bdcb2173869",
+      "file": "a3271349680406b8df7739e10cc9379fd627803a0bd997f58e0b9bdcb2173869.mid",
+      "split": "train",
+      "extracted_frames": 496
+    },
+    {
+      "composer": "E. Cavallini (1807\u20131874)",
+      "title": "Thirty Caprices: No. 3",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1464",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo3/CavalliniNo3.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo3/CavalliniNo3.mid",
+      "archive_member": "CavalliniNo3.mid",
+      "sha256": "7543b74438672da32d45a1d6ab21b906946901e38e2841a06005113f5dc24d93",
+      "file": "7543b74438672da32d45a1d6ab21b906946901e38e2841a06005113f5dc24d93.mid",
+      "split": "train",
+      "extracted_frames": 625
+    },
+    {
+      "composer": "E. Cavallini (1807\u20131874)",
+      "title": "Thirty Caprices: No. 4",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1478",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo4/CavalliniNo4.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo4/CavalliniNo4.mid",
+      "archive_member": "CavalliniNo4.mid",
+      "sha256": "fa8843b4b5e7c8e63d5277300c21e44ed2638c25e6e5b5b3c3e18272717da243",
+      "file": "fa8843b4b5e7c8e63d5277300c21e44ed2638c25e6e5b5b3c3e18272717da243.mid",
+      "split": "train",
+      "extracted_frames": 809
+    },
+    {
+      "composer": "E. Cavallini (1807\u20131874)",
+      "title": "Thirty Caprices: No. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1479",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo7/CavalliniNo7.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo7/CavalliniNo7.mid",
+      "archive_member": "CavalliniNo7.mid",
+      "sha256": "842bb646cf6d139f04a77e5f983edb5e7df35bb01a980f3487ebe50467c893c5",
+      "file": "842bb646cf6d139f04a77e5f983edb5e7df35bb01a980f3487ebe50467c893c5.mid",
+      "split": "train",
+      "extracted_frames": 841
+    },
+    {
+      "composer": "E. Cavallini (1807\u20131874)",
+      "title": "Thirty Caprices: No. 8",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1465",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo8/CavalliniNo8.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/CavalliniE/CavalliniNo8/CavalliniNo8.mid",
+      "archive_member": "CavalliniNo8.mid",
+      "sha256": "055bf8c1ff43a67cb65ce3521f20cd2a75f39c9c6dd0cb0f051b40221184139d",
+      "file": "055bf8c1ff43a67cb65ce3521f20cd2a75f39c9c6dd0cb0f051b40221184139d.mid",
+      "split": "train",
+      "extracted_frames": 802
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_conductor-1.mid",
+      "sha256": "c3f653fb9caaa015c7631d1d2c8756519b9ba671cb4285317034e10816045b1b",
+      "file": "c3f653fb9caaa015c7631d1d2c8756519b9ba671cb4285317034e10816045b1b.mid",
+      "split": "train",
+      "extracted_frames": 328
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_conductor-2.mid",
+      "sha256": "6c8b5fb7de336be7139fba97ea01ab29f753ee7f06047f5566b0c095f66d9404",
+      "file": "6c8b5fb7de336be7139fba97ea01ab29f753ee7f06047f5566b0c095f66d9404.mid",
+      "split": "train",
+      "extracted_frames": 807
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_conductor-3.mid",
+      "sha256": "e5c88184e7b5b12c088448caaa78b774d88f5afb0dbd3d399b7ef01e9457dd8c",
+      "file": "e5c88184e7b5b12c088448caaa78b774d88f5afb0dbd3d399b7ef01e9457dd8c.mid",
+      "split": "train",
+      "extracted_frames": 917
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_conductor.mid",
+      "sha256": "a6875df7f306370e2da61cd6ab4003d882a1f0eb4940fdfcb81d98023171c887",
+      "file": "a6875df7f306370e2da61cd6ab4003d882a1f0eb4940fdfcb81d98023171c887.mid",
+      "split": "train",
+      "extracted_frames": 928
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Clarinetto_I-1.mid",
+      "sha256": "bd2f8e20528256d735c4b8f27125c18626fe1026f314d0be3f423bd36df2005b",
+      "file": "bd2f8e20528256d735c4b8f27125c18626fe1026f314d0be3f423bd36df2005b.mid",
+      "split": "train",
+      "extracted_frames": 318
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Clarinetto_I-2.mid",
+      "sha256": "3541f05cdd230823691b3055b55a47152e399f8daff8f9c401f7cf7f0d413052",
+      "file": "3541f05cdd230823691b3055b55a47152e399f8daff8f9c401f7cf7f0d413052.mid",
+      "split": "train",
+      "extracted_frames": 705
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Clarinetto_I-3.mid",
+      "sha256": "30defcf07db4cb9c15e94a70f082d4aa7369cb2b0b1d21223b18de090ab29dfc",
+      "file": "30defcf07db4cb9c15e94a70f082d4aa7369cb2b0b1d21223b18de090ab29dfc.mid",
+      "split": "train",
+      "extracted_frames": 868
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Clarinetto_II-1.mid",
+      "sha256": "b2aad7a1c4ac458e4985464f2b0c73ce0425b35093389b841a9bd95ea9a1caa0",
+      "file": "b2aad7a1c4ac458e4985464f2b0c73ce0425b35093389b841a9bd95ea9a1caa0.mid",
+      "split": "train",
+      "extracted_frames": 186
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Clarinetto_II-2.mid",
+      "sha256": "0bdaea99ef4dda4ccb39cabb627e163bd8bf4b7b896ede8816ffb107d0a30d25",
+      "file": "0bdaea99ef4dda4ccb39cabb627e163bd8bf4b7b896ede8816ffb107d0a30d25.mid",
+      "split": "train",
+      "extracted_frames": 743
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Clarinetto_II-3.mid",
+      "sha256": "1d9f7a35d5a9234adcc7ed461608c0f37478b66358eccf0fed3576a9ae24dcb2",
+      "file": "1d9f7a35d5a9234adcc7ed461608c0f37478b66358eccf0fed3576a9ae24dcb2.mid",
+      "split": "train",
+      "extracted_frames": 807
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Clarinetto_II.mid",
+      "sha256": "33e48faa39abf725250d8dcbd2580395e9f8ad8da90db8d3994c11f26d8570ac",
+      "file": "33e48faa39abf725250d8dcbd2580395e9f8ad8da90db8d3994c11f26d8570ac.mid",
+      "split": "train",
+      "extracted_frames": 712
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Clarinetto_I.mid",
+      "sha256": "822dc52e3645c598a46549d21311ce7f5e2aa60bf4950c086ae5ff469b71d48d",
+      "file": "822dc52e3645c598a46549d21311ce7f5e2aa60bf4950c086ae5ff469b71d48d.mid",
+      "split": "train",
+      "extracted_frames": 850
+    },
+    {
+      "composer": "J. S. Bach (1685\u20131750)",
+      "title": "Lobt Gott, ihr Christen allzugleich",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=953",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BachJS/BWV609/Lobt/Lobt.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BachJS/BWV609/Lobt/Lobt.mid",
+      "archive_member": "Lobt.mid",
+      "sha256": "5da05835fdcb78595e5ea5fc51b7353aedf3ad0bf79c5272514aeba5803ae63f",
+      "file": "5da05835fdcb78595e5ea5fc51b7353aedf3ad0bf79c5272514aeba5803ae63f.mid",
+      "split": "test",
+      "extracted_frames": 157
+    },
+    {
+      "composer": "R. B. Hall (1858\u20131907)",
+      "title": "Tenth Regiment March",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2157",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip",
+      "archive_member": "TenthRegClar1.mid",
+      "sha256": "e3558e2bfc3c8f264adea414b24a1f81f8f84df761aad086f9b8a7d952e29561",
+      "file": "e3558e2bfc3c8f264adea414b24a1f81f8f84df761aad086f9b8a7d952e29561.mid",
+      "split": "train",
+      "extracted_frames": 311
+    },
+    {
+      "composer": "R. B. Hall (1858\u20131907)",
+      "title": "Tenth Regiment March",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2157",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip",
+      "archive_member": "TenthRegClar2.mid",
+      "sha256": "7cb2fa88dc9ca3af71c6dbac9484033fbfcf9c75efdeedefb78ad8a90689f57a",
+      "file": "7cb2fa88dc9ca3af71c6dbac9484033fbfcf9c75efdeedefb78ad8a90689f57a.mid",
+      "split": "train",
+      "extracted_frames": 290
+    },
+    {
+      "composer": "R. B. Hall (1858\u20131907)",
+      "title": "Tenth Regiment March",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2157",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip",
+      "archive_member": "TenthRegClar3.mid",
+      "sha256": "4a17a4fe83e287b41912a1f7ab7f83b0baa98db981b2db1e29c68d941d47df0b",
+      "file": "4a17a4fe83e287b41912a1f7ab7f83b0baa98db981b2db1e29c68d941d47df0b.mid",
+      "split": "train",
+      "extracted_frames": 275
+    },
+    {
+      "composer": "R. B. Hall (1858\u20131907)",
+      "title": "Tenth Regiment March",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2157",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip",
+      "archive_member": "TenthRegClarBass.mid",
+      "sha256": "5dc9d4d59b7328fd8a1d15a0748539c1318b776e1699914d83e8b37a7f6d239f",
+      "file": "5dc9d4d59b7328fd8a1d15a0748539c1318b776e1699914d83e8b37a7f6d239f.mid",
+      "split": "train",
+      "extracted_frames": 256
+    },
+    {
+      "composer": "R. B. Hall (1858\u20131907)",
+      "title": "Tenth Regiment March",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2157",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip",
+      "archive_member": "TenthRegClarEb.mid",
+      "sha256": "f19d9a0ac4ad9fb5dab8bba424cb9ced3f8d1dbb4e0b07e67352545fac4df0ec",
+      "file": "f19d9a0ac4ad9fb5dab8bba424cb9ced3f8d1dbb4e0b07e67352545fac4df0ec.mid",
+      "split": "train",
+      "extracted_frames": 302
+    },
+    {
+      "composer": "R. B. Hall (1858\u20131907)",
+      "title": "Tenth Regiment March",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2157",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/HallRB/TenthRegimentMarch/TenthRegimentMarch-mids.zip",
+      "archive_member": "TenthRegScoreTransposed.mid",
+      "sha256": "7ec971fe4d45f77e002d59c92a5d346c14db42d3f1bed78608de4b0dba85e69f",
+      "file": "7ec971fe4d45f77e002d59c92a5d346c14db42d3f1bed78608de4b0dba85e69f.mid",
+      "split": "train",
+      "extracted_frames": 782
+    },
+    {
+      "composer": "G. F. Handel (1685\u20131759)",
+      "title": "Hallelujah Chorus from Messiah",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=459",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/HandelGF/hallelujah/hallelujah-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/HandelGF/hallelujah/hallelujah-mids.zip",
+      "archive_member": "chorale-score.mid",
+      "sha256": "7cc9f2623f3a306f217c56f373b4e4330d040462484308136d20690b000fdaf5",
+      "file": "7cc9f2623f3a306f217c56f373b4e4330d040462484308136d20690b000fdaf5.mid",
+      "split": "train",
+      "extracted_frames": 387
+    },
+    {
+      "composer": "G. F. Handel (1685\u20131759)",
+      "title": "Hallelujah Chorus from Messiah",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=459",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/HandelGF/hallelujah/hallelujah-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/HandelGF/hallelujah/hallelujah-mids.zip",
+      "archive_member": "combined-score.mid",
+      "sha256": "d7a59451ba87bf138d0a6d5be589db9f07c0a9268361d91c9033a136d181c1a5",
+      "file": "d7a59451ba87bf138d0a6d5be589db9f07c0a9268361d91c9033a136d181c1a5.mid",
+      "split": "train",
+      "extracted_frames": 387
+    },
+    {
+      "composer": "E. N. M\u00e9hul (1763\u20131817)",
+      "title": "Symphonie en sol mineur",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1644",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MehulEN/Symphonie-1/Symphonie-1-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MehulEN/Symphonie-1/Symphonie-1-mids.zip",
+      "archive_member": "Midi-1.mid",
+      "sha256": "5735f41e283dde7f27c7a4c6bf45ffdb486fcd91f95fa245c4893c0e2c8ba451",
+      "file": "5735f41e283dde7f27c7a4c6bf45ffdb486fcd91f95fa245c4893c0e2c8ba451.mid",
+      "split": "train",
+      "extracted_frames": 723
+    },
+    {
+      "composer": "E. N. M\u00e9hul (1763\u20131817)",
+      "title": "Symphonie en sol mineur",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1644",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MehulEN/Symphonie-1/Symphonie-1-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MehulEN/Symphonie-1/Symphonie-1-mids.zip",
+      "archive_member": "Midi-2.mid",
+      "sha256": "f331c38cae3fb7ec8958653eee05e9511a3eb5079fd879f226d21d7fc3f67f6a",
+      "file": "f331c38cae3fb7ec8958653eee05e9511a3eb5079fd879f226d21d7fc3f67f6a.mid",
+      "split": "train",
+      "extracted_frames": 240
+    },
+    {
+      "composer": "E. N. M\u00e9hul (1763\u20131817)",
+      "title": "Symphonie en sol mineur",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1644",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MehulEN/Symphonie-1/Symphonie-1-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MehulEN/Symphonie-1/Symphonie-1-mids.zip",
+      "archive_member": "Midi-3.mid",
+      "sha256": "fe561a35a5627242feddfa9722c8f41748cde8a1de9bf9fe574633c705392bcf",
+      "file": "fe561a35a5627242feddfa9722c8f41748cde8a1de9bf9fe574633c705392bcf.mid",
+      "split": "train",
+      "extracted_frames": 279
+    },
+    {
+      "composer": "E. N. M\u00e9hul (1763\u20131817)",
+      "title": "Symphonie en sol mineur",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1644",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MehulEN/Symphonie-1/Symphonie-1-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MehulEN/Symphonie-1/Symphonie-1-mids.zip",
+      "archive_member": "Midi-4.mid",
+      "sha256": "8b5e058fe694b4c0744d0f5317e758677b7a413a8b5e981175139371edac8cb8",
+      "file": "8b5e058fe694b4c0744d0f5317e758677b7a413a8b5e981175139371edac8cb8.mid",
+      "split": "train",
+      "extracted_frames": 740
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Psalm 42",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1947",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip",
+      "archive_member": "clarinetti-2.mid",
+      "sha256": "994db03a8d9d9a277d58b267199354da06270dac892f7a08aa701fbe9d92e3c6",
+      "file": "994db03a8d9d9a277d58b267199354da06270dac892f7a08aa701fbe9d92e3c6.mid",
+      "split": "test",
+      "extracted_frames": 129
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Psalm 42",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1947",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip",
+      "archive_member": "clarinetti-3.mid",
+      "sha256": "7e4aebdb9148ddc513de377d08594bd6353b99845c8a5ea1e2059719401907d3",
+      "file": "7e4aebdb9148ddc513de377d08594bd6353b99845c8a5ea1e2059719401907d3.mid",
+      "split": "test",
+      "extracted_frames": 83
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Psalm 42",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1947",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip",
+      "archive_member": "clarinetti-5.mid",
+      "sha256": "5569b0837240cc9e560cd1cfbded4e3b9430b7635ce9595935869ebd6a64e817",
+      "file": "5569b0837240cc9e560cd1cfbded4e3b9430b7635ce9595935869ebd6a64e817.mid",
+      "split": "test",
+      "extracted_frames": 360
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Psalm 42",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1947",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip",
+      "archive_member": "clarinetti.mid",
+      "sha256": "053fd7a94bc41a657cd28f263490cb615ed065fac8b4cf0c3354b1625e3954b4",
+      "file": "053fd7a94bc41a657cd28f263490cb615ed065fac8b4cf0c3354b1625e3954b4.mid",
+      "split": "test",
+      "extracted_frames": 246
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Psalm 42",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1947",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip",
+      "archive_member": "score-3.mid",
+      "sha256": "a39ab34978d911b75e95d3200307a3515416019ad8bd8d04fbe690451ba60d11",
+      "file": "a39ab34978d911b75e95d3200307a3515416019ad8bd8d04fbe690451ba60d11.mid",
+      "split": "test",
+      "extracted_frames": 129
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Psalm 42",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1947",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip",
+      "archive_member": "score-4.mid",
+      "sha256": "73f765f8e96ffc6b3ec9422275bf5b904489c342d37f79d47ab5306d47dec25e",
+      "file": "73f765f8e96ffc6b3ec9422275bf5b904489c342d37f79d47ab5306d47dec25e.mid",
+      "split": "test",
+      "extracted_frames": 83
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Psalm 42",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1947",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip",
+      "archive_member": "score-7.mid",
+      "sha256": "dc67e64775337fb9c1f21f5d73df22ff2d73b059b46752b4d3ee558756933312",
+      "file": "dc67e64775337fb9c1f21f5d73df22ff2d73b059b46752b4d3ee558756933312.mid",
+      "split": "test",
+      "extracted_frames": 360
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Psalm 42",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1947",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O42/wie_der_hirsch_schreit/wie_der_hirsch_schreit-mids.zip",
+      "archive_member": "score.mid",
+      "sha256": "f29c6f3c6b2c4c9f8c8e53e8a7ea52a04955cd0a4db0ec36c8b887441ace9504",
+      "file": "f29c6f3c6b2c4c9f8c8e53e8a7ea52a04955cd0a4db0ec36c8b887441ace9504.mid",
+      "split": "test",
+      "extracted_frames": 246
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Final de la sixi\u00e8me sonate",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1383",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O65/Mendelssohn_op65_6/Mendelssohn_op65_6.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O65/Mendelssohn_op65_6/Mendelssohn_op65_6.mid",
+      "archive_member": "Mendelssohn_op65_6.mid",
+      "sha256": "9c0ab90a51803257610abae0758b2ba89f092247fbac4f030acb87dc121f7615",
+      "file": "9c0ab90a51803257610abae0758b2ba89f092247fbac4f030acb87dc121f7615.mid",
+      "split": "test",
+      "extracted_frames": 86
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Ein Sommernachtstraum - No.5",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=80",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O61/Sommernachtstraum/Sommernachtstraum-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O61/Sommernachtstraum/Sommernachtstraum-mids.zip",
+      "archive_member": "clarinetti-part.mid",
+      "sha256": "52d547f59dc8d70cf03411420d06b422c7351687807e526ec6d9de57c720a4bb",
+      "file": "52d547f59dc8d70cf03411420d06b422c7351687807e526ec6d9de57c720a4bb.mid",
+      "split": "test",
+      "extracted_frames": 331
+    },
+    {
+      "composer": "F. Mendelssohn-Bartholdy (1809\u20131847)",
+      "title": "Ein Sommernachtstraum - No.5",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=80",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O61/Sommernachtstraum/Sommernachtstraum-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/Mendelssohn-BartholdyF/O61/Sommernachtstraum/Sommernachtstraum-mids.zip",
+      "archive_member": "Sommernachtstraum.mid",
+      "sha256": "2f421b302892d4bc8de5832d61c1d9c8b091eeba62fb31b180626d1dd895261a",
+      "file": "2f421b302892d4bc8de5832d61c1d9c8b091eeba62fb31b180626d1dd895261a.mid",
+      "split": "test",
+      "extracted_frames": 331
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Divertimento II",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=261",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip",
+      "archive_member": "score-1.mid",
+      "sha256": "8e44a14039078d7b9c7b01acb7fe24af87730ed9860573cdb0a508d199188ad9",
+      "file": "8e44a14039078d7b9c7b01acb7fe24af87730ed9860573cdb0a508d199188ad9.mid",
+      "split": "train",
+      "extracted_frames": 178
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Divertimento II",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=261",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip",
+      "archive_member": "score-2.mid",
+      "sha256": "7931268d6db90d26034ae6031c6cd06aeffbd533c60fbe628cbe19a23e5cac7e",
+      "file": "7931268d6db90d26034ae6031c6cd06aeffbd533c60fbe628cbe19a23e5cac7e.mid",
+      "split": "train",
+      "extracted_frames": 160
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Divertimento II",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=261",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip",
+      "archive_member": "score-3.mid",
+      "sha256": "71528c90f9f60438d4ecc09b97301efcf8396fb8b7c09491f4c2f95e3afc3f43",
+      "file": "71528c90f9f60438d4ecc09b97301efcf8396fb8b7c09491f4c2f95e3afc3f43.mid",
+      "split": "train",
+      "extracted_frames": 175
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Divertimento II",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=261",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip",
+      "archive_member": "score-4.mid",
+      "sha256": "183e8aaf82261f15dbe2036bc015677c109afc2209b1e38834a6541457edd7b8",
+      "file": "183e8aaf82261f15dbe2036bc015677c109afc2209b1e38834a6541457edd7b8.mid",
+      "split": "train",
+      "extracted_frames": 383
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Divertimento II",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=261",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV229/divertimento/divertimento-mids.zip",
+      "archive_member": "score.mid",
+      "sha256": "da8e5d05973f1ff29581b3070c01da2abfc9eaf2c234d66c37d7a0cf122c66f8",
+      "file": "da8e5d05973f1ff29581b3070c01da2abfc9eaf2c234d66c37d7a0cf122c66f8.mid",
+      "split": "train",
+      "extracted_frames": 165
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Masonic Funeral Music KV 477",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=448",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV477/k477/k477-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV477/k477/k477-mids.zip",
+      "archive_member": "k477-basset-horn.mid",
+      "sha256": "54741645ee712b7742ab5d3832cc6aeb533e247a1865761148db3b9dc879d9b3",
+      "file": "54741645ee712b7742ab5d3832cc6aeb533e247a1865761148db3b9dc879d9b3.mid",
+      "split": "train",
+      "extracted_frames": 91
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Masonic Funeral Music KV 477",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=448",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV477/k477/k477-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV477/k477/k477-mids.zip",
+      "archive_member": "k477-clarinet.mid",
+      "sha256": "9d70a4c0d518df899a9ef7c210ff441bad5b4e2df648d6d5caaef6f1a67e2ca9",
+      "file": "9d70a4c0d518df899a9ef7c210ff441bad5b4e2df648d6d5caaef6f1a67e2ca9.mid",
+      "split": "train",
+      "extracted_frames": 81
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Masonic Funeral Music KV 477",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=448",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV477/k477/k477-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV477/k477/k477-mids.zip",
+      "archive_member": "k477-score.mid",
+      "sha256": "da66b21a859357b3484ee22706a016d3a9da808d2a1707a42e8f27530c69280a",
+      "file": "da66b21a859357b3484ee22706a016d3a9da808d2a1707a42e8f27530c69280a.mid",
+      "split": "train",
+      "extracted_frames": 141
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Piano Concerto \u2116 23",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2229",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV488/Mozart-KV488/Mozart-KV488-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV488/Mozart-KV488/Mozart-KV488-mids.zip",
+      "archive_member": "MozartWA-KV488-midi-2-andante.mid",
+      "sha256": "59789a1ad57c5cd8459b1946192c77f50615e6ea9706d40e1b25e8939060f0b7",
+      "file": "59789a1ad57c5cd8459b1946192c77f50615e6ea9706d40e1b25e8939060f0b7.mid",
+      "split": "train",
+      "extracted_frames": 174
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Piano Concerto \u2116 23",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2229",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV488/Mozart-KV488/Mozart-KV488-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV488/Mozart-KV488/Mozart-KV488-mids.zip",
+      "archive_member": "MozartWA-KV488-midi-1-allegro.mid",
+      "sha256": "dcaf426cf8186a901666dea1fa1b72952e77cd9789c4a500090c82b9144227f6",
+      "file": "dcaf426cf8186a901666dea1fa1b72952e77cd9789c4a500090c82b9144227f6.mid",
+      "split": "train",
+      "extracted_frames": 602
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Alte",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=343",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV517/k517/k517.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV517/k517/k517.mid",
+      "archive_member": "k517.mid",
+      "sha256": "900b3ea2725e15207156e87c2741a4ad7b0b2d8944380a4ed45eaed8a6c94b4d",
+      "file": "900b3ea2725e15207156e87c2741a4ad7b0b2d8944380a4ed45eaed8a6c94b4d.mid",
+      "split": "train",
+      "extracted_frames": 102
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Trio in E-flat Major KV. 498",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=250",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip",
+      "archive_member": "k498-clarinet-1.mid",
+      "sha256": "2ea95db5c8842be36b9a01de49f988d0f1f9d1a97e16b32546ecccff14d71b46",
+      "file": "2ea95db5c8842be36b9a01de49f988d0f1f9d1a97e16b32546ecccff14d71b46.mid",
+      "split": "train",
+      "extracted_frames": 301
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Trio in E-flat Major KV. 498",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=250",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip",
+      "archive_member": "k498-clarinet-2.mid",
+      "sha256": "17b22f601a78327fb863fc34ea182e4ea8da9bfa8af06eeb1cadb632871504d7",
+      "file": "17b22f601a78327fb863fc34ea182e4ea8da9bfa8af06eeb1cadb632871504d7.mid",
+      "split": "train",
+      "extracted_frames": 749
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Trio in E-flat Major KV. 498",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=250",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip",
+      "archive_member": "k498-clarinet.mid",
+      "sha256": "1ce7606787e2cf44d952c48a6c0e7aad11f75c7ccb3ffae62ab592d2d24ed990",
+      "file": "1ce7606787e2cf44d952c48a6c0e7aad11f75c7ccb3ffae62ab592d2d24ed990.mid",
+      "split": "train",
+      "extracted_frames": 468
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Trio in E-flat Major KV. 498",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=250",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip",
+      "archive_member": "k498-piano-1.mid",
+      "sha256": "ddc384b7d88aa3f96f1c6eb0a7e7b02c93b751ea580e11a068d83d58e4fcb9f7",
+      "file": "ddc384b7d88aa3f96f1c6eb0a7e7b02c93b751ea580e11a068d83d58e4fcb9f7.mid",
+      "split": "train",
+      "extracted_frames": 301
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Trio in E-flat Major KV. 498",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=250",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip",
+      "archive_member": "k498-piano-2.mid",
+      "sha256": "aad94602ef433d53f0c2c4b413785d301243e66c69a5e6065a7769f9fd84a141",
+      "file": "aad94602ef433d53f0c2c4b413785d301243e66c69a5e6065a7769f9fd84a141.mid",
+      "split": "train",
+      "extracted_frames": 749
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Trio in E-flat Major KV. 498",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=250",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV498/k498/k498-mids.zip",
+      "archive_member": "k498-piano.mid",
+      "sha256": "37416e5a833abff65601a7a0de165e8dc0827f89cabffb26a4297b514820505d",
+      "file": "37416e5a833abff65601a7a0de165e8dc0827f89cabffb26a4297b514820505d.mid",
+      "split": "train",
+      "extracted_frames": 468
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Verschweigung",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=641",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV518/k518/k518.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV518/k518/k518.mid",
+      "archive_member": "k518.mid",
+      "sha256": "b7bb53cc525e979104d8223c626611d05611e59eb8a963bef4026a071d075c73",
+      "file": "b7bb53cc525e979104d8223c626611d05611e59eb8a963bef4026a071d075c73.mid",
+      "split": "train",
+      "extracted_frames": 87
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Als Luise die Briefe ihres ungetreuen Liebhabers verbrannte",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=500",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV520/k520/k520.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV520/k520/k520.mid",
+      "archive_member": "k520.mid",
+      "sha256": "fa1302f0acbb3f7a3a4ba11f7c082390a328461ae9d74844395b367b331496cf",
+      "file": "fa1302f0acbb3f7a3a4ba11f7c082390a328461ae9d74844395b367b331496cf.mid",
+      "split": "train",
+      "extracted_frames": 126
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Das Lied der Trennung",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=642",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV519/k519/k519.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV519/k519/k519.mid",
+      "archive_member": "k519.mid",
+      "sha256": "a766b2754d1f8e6a0adc15e4229c3fb6b9b2b5df43ba097cef560dfaad893455",
+      "file": "a766b2754d1f8e6a0adc15e4229c3fb6b9b2b5df43ba097cef560dfaad893455.mid",
+      "split": "train",
+      "extracted_frames": 378
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Abendempfindung",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=501",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV523/k523/k523.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV523/k523/k523.mid",
+      "archive_member": "k523.mid",
+      "sha256": "025ac71d6fce71236235087f0f5089817929e3f16c67e26ab98b288d4962085d",
+      "file": "025ac71d6fce71236235087f0f5089817929e3f16c67e26ab98b288d4962085d.mid",
+      "split": "train",
+      "extracted_frames": 341
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - No. 7 Duett",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=259",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-07-duet/magicflute-07-duet-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-07-duet/magicflute-07-duet-mids.zip",
+      "archive_member": "clarinetti.mid",
+      "sha256": "e263b466d7cb061dd03c4232d7218f3924d6a8989e1a467a17ddab60e637e7da",
+      "file": "e263b466d7cb061dd03c4232d7218f3924d6a8989e1a467a17ddab60e637e7da.mid",
+      "split": "train",
+      "extracted_frames": 49
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - No. 7 Duett",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=259",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-07-duet/magicflute-07-duet-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-07-duet/magicflute-07-duet-mids.zip",
+      "archive_member": "MF7-DuettScore.mid",
+      "sha256": "6aa18f27f8f1ea957fcdc22e67ec453d12386c0a9454ea98e2cbdce9503bb483",
+      "file": "6aa18f27f8f1ea957fcdc22e67ec453d12386c0a9454ea98e2cbdce9503bb483.mid",
+      "split": "train",
+      "extracted_frames": 49
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Clarinet Quintet KV. 581",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=337",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip",
+      "archive_member": "k581-clarinet-1.mid",
+      "sha256": "bc67a4446a1e7b94ea483d9ab39eca8e15e71d0eb0e746c69661012d159fb760",
+      "file": "bc67a4446a1e7b94ea483d9ab39eca8e15e71d0eb0e746c69661012d159fb760.mid",
+      "split": "train",
+      "extracted_frames": 396
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Clarinet Quintet KV. 581",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=337",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip",
+      "archive_member": "k581-clarinet-2.mid",
+      "sha256": "ab5f6c9713ddff9c62cec473b4dd8ee5490fe5532e7defd85b79b019ccfc2b2f",
+      "file": "ab5f6c9713ddff9c62cec473b4dd8ee5490fe5532e7defd85b79b019ccfc2b2f.mid",
+      "split": "train",
+      "extracted_frames": 229
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Clarinet Quintet KV. 581",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=337",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip",
+      "archive_member": "k581-clarinet-3.mid",
+      "sha256": "1be2dfbccdec7a08955c77c892bdd04e2572d9ffd150c501fa1d2261d645ca63",
+      "file": "1be2dfbccdec7a08955c77c892bdd04e2572d9ffd150c501fa1d2261d645ca63.mid",
+      "split": "train",
+      "extracted_frames": 569
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Clarinet Quintet KV. 581",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=337",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip",
+      "archive_member": "k581-clarinet.mid",
+      "sha256": "76be509b2f71caa0a6d23daca96e545f85734945b73cbf12064b9839b335d0c2",
+      "file": "76be509b2f71caa0a6d23daca96e545f85734945b73cbf12064b9839b335d0c2.mid",
+      "split": "train",
+      "extracted_frames": 836
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Clarinet Quintet KV. 581",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=337",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip",
+      "archive_member": "k581-score-1.mid",
+      "sha256": "a696d72d9a1baa84a68a236ae996964de3f23ca83be223dfbc5164f91a008c1a",
+      "file": "a696d72d9a1baa84a68a236ae996964de3f23ca83be223dfbc5164f91a008c1a.mid",
+      "split": "train",
+      "extracted_frames": 396
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Clarinet Quintet KV. 581",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=337",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip",
+      "archive_member": "k581-score-2.mid",
+      "sha256": "bc0c493fad17e27da3170ed53b0de34e3ccfbad9541a05c1a842f0d6edf61c97",
+      "file": "bc0c493fad17e27da3170ed53b0de34e3ccfbad9541a05c1a842f0d6edf61c97.mid",
+      "split": "train",
+      "extracted_frames": 229
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Clarinet Quintet KV. 581",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=337",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip",
+      "archive_member": "k581-score-3.mid",
+      "sha256": "a654bd631ee74bf6752d2a30c057d1dc2067b269b7bac5188ed2b07058ddf8aa",
+      "file": "a654bd631ee74bf6752d2a30c057d1dc2067b269b7bac5188ed2b07058ddf8aa.mid",
+      "split": "train",
+      "extracted_frames": 569
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Clarinet Quintet KV. 581",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=337",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV581/k581/k581-mids.zip",
+      "archive_member": "k581-score.mid",
+      "sha256": "474f864707ca41246a4bd4ac095ab3e38673d753c62e6daffb8d96e0179928bc",
+      "file": "474f864707ca41246a4bd4ac095ab3e38673d753c62e6daffb8d96e0179928bc.mid",
+      "split": "train",
+      "extracted_frames": 836
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - Ouverture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=248",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip",
+      "archive_member": "allegroIIscore.mid",
+      "sha256": "4b6af991e4d65004140129d3f5357f098e0dbd4f19c76b87e1dfef53a30687bd",
+      "file": "4b6af991e4d65004140129d3f5357f098e0dbd4f19c76b87e1dfef53a30687bd.mid",
+      "split": "train",
+      "extracted_frames": 258
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - Ouverture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=248",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip",
+      "archive_member": "allegroIscore.mid",
+      "sha256": "e2d389d78722bc73b1b67f5f8b43fb1f7f06821fb9e1f7cc3833730bb367dbbf",
+      "file": "e2d389d78722bc73b1b67f5f8b43fb1f7f06821fb9e1f7cc3833730bb367dbbf.mid",
+      "split": "train",
+      "extracted_frames": 161
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - Ouverture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=248",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip",
+      "archive_member": "clarinetti-1.mid",
+      "sha256": "6f0cf788342aebbcfb02b91c41216626157e6e1b7831c85335c7b6d786a5d5d8",
+      "file": "6f0cf788342aebbcfb02b91c41216626157e6e1b7831c85335c7b6d786a5d5d8.mid",
+      "split": "train",
+      "extracted_frames": 161
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - Ouverture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=248",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip",
+      "archive_member": "clarinetti-3.mid",
+      "sha256": "dc386bb5c9935e3384542fc5e0edb16a002b499ba37e25cf190e92d6b4f918cc",
+      "file": "dc386bb5c9935e3384542fc5e0edb16a002b499ba37e25cf190e92d6b4f918cc.mid",
+      "split": "train",
+      "extracted_frames": 258
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - Ouverture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=248",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip",
+      "archive_member": "MFO-Score-1.mid",
+      "sha256": "d88dd0abc8961c2d63915cda8667e93a6ab2b28563eef461e650bbf433cb4a87",
+      "file": "d88dd0abc8961c2d63915cda8667e93a6ab2b28563eef461e650bbf433cb4a87.mid",
+      "split": "train",
+      "extracted_frames": 161
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - Ouverture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=248",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-00-overture/magicflute-00-overture-mids.zip",
+      "archive_member": "MFO-Score-3.mid",
+      "sha256": "1a0ceccec7a7cf7f8ee06f327c0abf2ce88031ad51e63409d34c7a2f926d4350",
+      "file": "1a0ceccec7a7cf7f8ee06f327c0abf2ce88031ad51e63409d34c7a2f926d4350.mid",
+      "split": "train",
+      "extracted_frames": 258
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - No. 13 Arie",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=251",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-13-aria/magicflute-13-aria-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-13-aria/magicflute-13-aria-mids.zip",
+      "archive_member": "clarinetti.mid",
+      "sha256": "e385daad0c4c4fe3fc2098ccf6d184bd46443e0b1915309003f58e70bf848c33",
+      "file": "e385daad0c4c4fe3fc2098ccf6d184bd46443e0b1915309003f58e70bf848c33.mid",
+      "split": "train",
+      "extracted_frames": 83
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Die Zauberfl\u00f6te (The Magic Flute) - No. 13 Arie",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=251",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-13-aria/magicflute-13-aria-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV620/magicflute-13-aria/magicflute-13-aria-mids.zip",
+      "archive_member": "MF13-ArieScore.mid",
+      "sha256": "c994a3c411ffc0519e9a946e2327fe4acf3b84994cbaa30d337aabbe2c61c739",
+      "file": "c994a3c411ffc0519e9a946e2327fe4acf3b84994cbaa30d337aabbe2c61c739.mid",
+      "split": "train",
+      "extracted_frames": 83
+    },
+    {
+      "composer": "G. Rossini (1792\u20131868)",
+      "title": "Eduardo e Cristina, ouverture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1634",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/RossiniG/Eduardo_e_Cristina/Eduardo_e_Cristina.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/RossiniG/Eduardo_e_Cristina/Eduardo_e_Cristina.mid",
+      "archive_member": "Eduardo_e_Cristina.mid",
+      "sha256": "7d9d17c9e35091f714bb14f13b0ae0d8a7a9db29167ffb2fc6419b3ce6a51b25",
+      "file": "7d9d17c9e35091f714bb14f13b0ae0d8a7a9db29167ffb2fc6419b3ce6a51b25.mid",
+      "split": "train",
+      "extracted_frames": 884
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Dies Irae",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=364",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV626/dies_irae/dies_irae.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV626/dies_irae/dies_irae.mid",
+      "archive_member": "dies_irae.mid",
+      "sha256": "988faf187f2a661bfbfe7d6ef5a53241b96c21394969f23c01d000dc9796a399",
+      "file": "988faf187f2a661bfbfe7d6ef5a53241b96c21394969f23c01d000dc9796a399.mid",
+      "split": "train",
+      "extracted_frames": 169
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Gretchen am Spinnrade",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=503",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D118/gretchen/gretchen.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D118/gretchen/gretchen.mid",
+      "archive_member": "gretchen.mid",
+      "sha256": "1460b5cedc528722939a657b9ab9d7a6fa500d0bc29c7efd78c34466f04d5e5e",
+      "file": "1460b5cedc528722939a657b9ab9d7a6fa500d0bc29c7efd78c34466f04d5e5e.mid",
+      "split": "train",
+      "extracted_frames": 256
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Trost in Thr\u00e4nen",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1578",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D120/SchubertF-D120-TrostInThraenen/SchubertF-D120-TrostInThraenen.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D120/SchubertF-D120-TrostInThraenen/SchubertF-D120-TrostInThraenen.mid",
+      "archive_member": "SchubertF-D120-TrostInThraenen.mid",
+      "sha256": "6cf3c60882c186ec642383caf4c5b265778d53159225b56dc121c4b595cdaf9d",
+      "file": "6cf3c60882c186ec642383caf4c5b265778d53159225b56dc121c4b595cdaf9d.mid",
+      "split": "train",
+      "extracted_frames": 62
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "S\u00e4ngers Morgenlied",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1051",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D163/SchubertF-D163-D165_SaengersMorgenlied/SchubertF-D163-D165_SaengersMorgenlied.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D163/SchubertF-D163-D165_SaengersMorgenlied/SchubertF-D163-D165_SaengersMorgenlied.mid",
+      "archive_member": "SchubertF-D163-D165_SaengersMorgenlied.mid",
+      "sha256": "507e1827c6b666cb900fbc2146b8c558e67837d5a2af8e13539b17fffa8e4630",
+      "file": "507e1827c6b666cb900fbc2146b8c558e67837d5a2af8e13539b17fffa8e4630.mid",
+      "split": "train",
+      "extracted_frames": 142
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Erlk\u00f6nig",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1030",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D328/Erlkoenig/Erlkoenig.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D328/Erlkoenig/Erlkoenig.mid",
+      "archive_member": "Erlkoenig.mid",
+      "sha256": "e433eca07d4d1ca85622bfc0fafeb6f74ac84710f1eebe57a1e1199876fc6603",
+      "file": "e433eca07d4d1ca85622bfc0fafeb6f74ac84710f1eebe57a1e1199876fc6603.mid",
+      "split": "train",
+      "extracted_frames": 55
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Erlk\u00f6nig (alternative typesetting)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1621",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D328/Erlkoenig_alt/Erlkoenig_alt.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D328/Erlkoenig_alt/Erlkoenig_alt.mid",
+      "archive_member": "Erlkoenig_alt.mid",
+      "sha256": "0b45b44a34776345094b826581cbdec3190d39c70eb1eaf6ca8c03d1098778a4",
+      "file": "0b45b44a34776345094b826581cbdec3190d39c70eb1eaf6ca8c03d1098778a4.mid",
+      "split": "train",
+      "extracted_frames": 55
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "An die Musik",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1001",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D547/AnDieMusik/AnDieMusik.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D547/AnDieMusik/AnDieMusik.mid",
+      "archive_member": "AnDieMusik.mid",
+      "sha256": "85e627c4a4d635e0ef1018b6ae627b44d13d830da821b5c2d7823a8a32e45e7c",
+      "file": "85e627c4a4d635e0ef1018b6ae627b44d13d830da821b5c2d7823a8a32e45e7c.mid",
+      "split": "train",
+      "extracted_frames": 128
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Die Forelle",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=502",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D550/forelle/forelle.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D550/forelle/forelle.mid",
+      "archive_member": "forelle.mid",
+      "sha256": "3b6726f0ff6beaef51288a6a45f091f12a410adca6bc60e100de5ef62958e124",
+      "file": "3b6726f0ff6beaef51288a6a45f091f12a410adca6bc60e100de5ef62958e124.mid",
+      "split": "train",
+      "extracted_frames": 221
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Psalm 23",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1135",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D706/SchubertF-D706-Psalm23/SchubertF-D706-Psalm23.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D706/SchubertF-D706-Psalm23/SchubertF-D706-Psalm23.mid",
+      "archive_member": "SchubertF-D706-Psalm23.mid",
+      "sha256": "505bfe29cbcec5d6fe997da8eeadce72969f8b8b8e1b3451f7b97a00d5770e1d",
+      "file": "505bfe29cbcec5d6fe997da8eeadce72969f8b8b8e1b3451f7b97a00d5770e1d.mid",
+      "split": "train",
+      "extracted_frames": 313
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Auf dem Wasser zu singen",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1052",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D774/SchubertF-D774_AufDemWasserZuSingen/SchubertF-D774_AufDemWasserZuSingen.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D774/SchubertF-D774_AufDemWasserZuSingen/SchubertF-D774_AufDemWasserZuSingen.mid",
+      "archive_member": "SchubertF-D774_AufDemWasserZuSingen.mid",
+      "sha256": "b461bad7e937ba271e857bdce4442a70b4fd99703b23b503f7eda4b1e02b2452",
+      "file": "b461bad7e937ba271e857bdce4442a70b4fd99703b23b503f7eda4b1e02b2452.mid",
+      "split": "train",
+      "extracted_frames": 336
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Im Fr\u00fchling",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1550",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D882/SchubertF-D882_ImFruehling/SchubertF-D882_ImFruehling.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D882/SchubertF-D882_ImFruehling/SchubertF-D882_ImFruehling.mid",
+      "archive_member": "SchubertF-D882_ImFruehling.mid",
+      "sha256": "f4719d08f9d9e3e436d4dfa9fbe4c8f46371bff672f5997cf40bcd485d1071c0",
+      "file": "f4719d08f9d9e3e436d4dfa9fbe4c8f46371bff672f5997cf40bcd485d1071c0.mid",
+      "split": "train",
+      "extracted_frames": 316
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Liebe",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1559",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D983/SchubertF-D983A_Liebe/SchubertF-D983A_Liebe.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D983/SchubertF-D983A_Liebe/SchubertF-D983A_Liebe.mid",
+      "archive_member": "SchubertF-D983A_Liebe.mid",
+      "sha256": "a36bc7bac25323a6f2e5f3bef446169053adb296b86e359e42f7e3e118827cad",
+      "file": "a36bc7bac25323a6f2e5f3bef446169053adb296b86e359e42f7e3e118827cad.mid",
+      "split": "train",
+      "extracted_frames": 75
+    },
+    {
+      "composer": "J. P. Sousa (1854\u20131932)",
+      "title": "The Fairest of the Fair",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1643",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip",
+      "archive_member": "JPSFotFAltoClarEb.mid",
+      "sha256": "d293df129452a7afa81108d731b5f1db60e246f2c81e28f3f4efac8fdaf21147",
+      "file": "d293df129452a7afa81108d731b5f1db60e246f2c81e28f3f4efac8fdaf21147.mid",
+      "split": "train",
+      "extracted_frames": 307
+    },
+    {
+      "composer": "J. P. Sousa (1854\u20131932)",
+      "title": "The Fairest of the Fair",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1643",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip",
+      "archive_member": "JPSFotFBassClar.mid",
+      "sha256": "1e9a63b1adf6914cf627e5a4503a965b0978ed2fbc4a8e71dc802b9393c73c48",
+      "file": "1e9a63b1adf6914cf627e5a4503a965b0978ed2fbc4a8e71dc802b9393c73c48.mid",
+      "split": "train",
+      "extracted_frames": 315
+    },
+    {
+      "composer": "J. P. Sousa (1854\u20131932)",
+      "title": "The Fairest of the Fair",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1643",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip",
+      "archive_member": "JPSFotFClarEb.mid",
+      "sha256": "73e1833508ad4a6c3b7a25f0a04b880a490ec86f1b649012cf7e6fef07cffb2b",
+      "file": "73e1833508ad4a6c3b7a25f0a04b880a490ec86f1b649012cf7e6fef07cffb2b.mid",
+      "split": "train",
+      "extracted_frames": 397
+    },
+    {
+      "composer": "J. P. Sousa (1854\u20131932)",
+      "title": "The Fairest of the Fair",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1643",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip",
+      "archive_member": "JPSFotFClarOne.mid",
+      "sha256": "34c21eecc7d1eb7a5aa2083f5bc83be221c5cf1038daf87af524f8a4888aa937",
+      "file": "34c21eecc7d1eb7a5aa2083f5bc83be221c5cf1038daf87af524f8a4888aa937.mid",
+      "split": "train",
+      "extracted_frames": 391
+    },
+    {
+      "composer": "J. P. Sousa (1854\u20131932)",
+      "title": "The Fairest of the Fair",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1643",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip",
+      "archive_member": "JPSFotFClarTwo.mid",
+      "sha256": "01b23f95f2e3e6066a09a61ba02ca5a4a97d9f15f97b7b8db5beff14f6392964",
+      "file": "01b23f95f2e3e6066a09a61ba02ca5a4a97d9f15f97b7b8db5beff14f6392964.mid",
+      "split": "train",
+      "extracted_frames": 394
+    },
+    {
+      "composer": "J. P. Sousa (1854\u20131932)",
+      "title": "The Fairest of the Fair",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1643",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SousaJP/JPSFotF/JPSFotF-mids.zip",
+      "archive_member": "JPSFotFConductorTransposed.mid",
+      "sha256": "d3df46b7cb1b7c6602690117272b05b12774ed3b63b2c19b816d144e9cc24f22",
+      "file": "d3df46b7cb1b7c6602690117272b05b12774ed3b63b2c19b816d144e9cc24f22.mid",
+      "split": "train",
+      "extracted_frames": 503
+    },
+    {
+      "composer": "P. I. Tchaikovsky (1840\u20131893)",
+      "title": "Violin Concerto in D Major (All three movements)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=466",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip",
+      "archive_member": "tchai_op35-2.mid",
+      "sha256": "22c6c11ccade18d8121e6487cde20d18a84be3c8ca3cab4bb2c7c4123421ca8d",
+      "file": "22c6c11ccade18d8121e6487cde20d18a84be3c8ca3cab4bb2c7c4123421ca8d.mid",
+      "split": "validation",
+      "extracted_frames": 480
+    },
+    {
+      "composer": "P. I. Tchaikovsky (1840\u20131893)",
+      "title": "Violin Concerto in D Major (All three movements)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=466",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip",
+      "archive_member": "tchai_op35-1.mid",
+      "sha256": "d1f909fd75918d61af6a457621d540e91637df4223ee4d452be86c14bc5f095c",
+      "file": "d1f909fd75918d61af6a457621d540e91637df4223ee4d452be86c14bc5f095c.mid",
+      "split": "validation",
+      "extracted_frames": 205
+    },
+    {
+      "composer": "P. I. Tchaikovsky (1840\u20131893)",
+      "title": "Violin Concerto in D Major (All three movements)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=466",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip",
+      "archive_member": "tchai_op35.mid",
+      "sha256": "752c04565cf1287ff3a4983ee9e561fdb7cd26c5fa78994a02f795deb516a88e",
+      "file": "752c04565cf1287ff3a4983ee9e561fdb7cd26c5fa78994a02f795deb516a88e.mid",
+      "split": "validation",
+      "extracted_frames": 779
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Tantum ergo",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1553",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D962/SchubertF-D962-TantumErgo/SchubertF-D962-TantumErgo.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D962/SchubertF-D962-TantumErgo/SchubertF-D962-TantumErgo.mid",
+      "archive_member": "SchubertF-D962-TantumErgo.mid",
+      "sha256": "e867daa73fae0851410e2b006a3dd3fe6653df5c4abe45993344c5a3b999f166",
+      "file": "e867daa73fae0851410e2b006a3dd3fe6653df5c4abe45993344c5a3b999f166.mid",
+      "split": "train",
+      "extracted_frames": 107
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Der Hirt auf dem Felsen",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1554",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D965/SchubertF-D965-DerHirtAufDemFelsen/SchubertF-D965-DerHirtAufDemFelsen.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D965/SchubertF-D965-DerHirtAufDemFelsen/SchubertF-D965-DerHirtAufDemFelsen.mid",
+      "archive_member": "SchubertF-D965-DerHirtAufDemFelsen.mid",
+      "sha256": "da22e1e5c1a06eb08e57d253efda62224247c36946f0a9d23ee1309003eeed02",
+      "file": "da22e1e5c1a06eb08e57d253efda62224247c36946f0a9d23ee1309003eeed02.mid",
+      "split": "train",
+      "extracted_frames": 704
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Zum Rundetanz",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1560",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D983/SchubertF-D983B_ZumRundetanz/SchubertF-D983B_ZumRundetanz.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D983/SchubertF-D983B_ZumRundetanz/SchubertF-D983B_ZumRundetanz.mid",
+      "archive_member": "SchubertF-D983B_ZumRundetanz.mid",
+      "sha256": "ebc088930a90e761986609e728238e33abaec08752d29a45282510a94f9f4b5c",
+      "file": "ebc088930a90e761986609e728238e33abaec08752d29a45282510a94f9f4b5c.mid",
+      "split": "train",
+      "extracted_frames": 186
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "J\u00fcnglingswonne",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1562",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D983/SchubertF-D983_Juenglingswonne/SchubertF-D983_Juenglingswonne.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D983/SchubertF-D983_Juenglingswonne/SchubertF-D983_Juenglingswonne.mid",
+      "archive_member": "SchubertF-D983_Juenglingswonne.mid",
+      "sha256": "bd2c681efd30cec23b1281fc611a5698d2f8ca713e70b9c8b6098be9c78eb946",
+      "file": "bd2c681efd30cec23b1281fc611a5698d2f8ca713e70b9c8b6098be9c78eb946.mid",
+      "split": "train",
+      "extracted_frames": 202
+    },
+    {
+      "composer": "F. Schubert (1797\u20131828)",
+      "title": "Die Nacht",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1561",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/SchubertF/D983/SchubertF-D983C_DieNacht/SchubertF-D983C_DieNacht.mid"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/SchubertF/D983/SchubertF-D983C_DieNacht/SchubertF-D983C_DieNacht.mid",
+      "archive_member": "SchubertF-D983C_DieNacht.mid",
+      "sha256": "eff85f5bf4dbec4d0221cc268dfc6c20b283b690b50d0216276d446aad441294",
+      "file": "eff85f5bf4dbec4d0221cc268dfc6c20b283b690b50d0216276d446aad441294.mid",
+      "split": "train",
+      "extracted_frames": 156
+    }
+  ],
+  "selection": "Composer-disjoint specialist splits; initialized from scratch.",
+  "maestro_composer_counts": {}
+}

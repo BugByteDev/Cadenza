@@ -1,0 +1,148 @@
+{
+  "architecture": "four-word context embedding neural language model",
+  "parameters": 182922,
+  "source": "https://www.gutenberg.org/ebooks/12242.txt.utf-8",
+  "source_title": "Poems by Emily Dickinson, Three Series, Complete",
+  "author": "Emily Dickinson (1830\u20131886)",
+  "source_sha256": "f4421418353de2737c9bfe3db1e4657534b6b8ae2a8603f31de2d77678d18791",
+  "training_type": "public-domain verse lines and headings, not a stored title catalogue",
+  "training_examples": 10794,
+  "validation_examples": 1287,
+  "poem_groups": 448,
+  "vocabulary": 1322,
+  "initial_validation_loss": 7.192485332489014,
+  "best_validation_loss": 5.0756611824035645,
+  "frequency_baseline_loss": 5.496232470836644,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 6.524422201999398,
+      "validation_loss": 5.716565132141113
+    },
+    {
+      "epoch": 2,
+      "train_loss": 5.302744599275811,
+      "validation_loss": 5.2637248039245605
+    },
+    {
+      "epoch": 3,
+      "train_loss": 4.999182845270911,
+      "validation_loss": 5.1708083152771
+    },
+    {
+      "epoch": 4,
+      "train_loss": 4.803129151810047,
+      "validation_loss": 5.117498874664307
+    },
+    {
+      "epoch": 5,
+      "train_loss": 4.646690146867619,
+      "validation_loss": 5.089439868927002
+    },
+    {
+      "epoch": 6,
+      "train_loss": 4.5186913734258605,
+      "validation_loss": 5.0756611824035645
+    },
+    {
+      "epoch": 7,
+      "train_loss": 4.380040324011515,
+      "validation_loss": 5.08046817779541
+    },
+    {
+      "epoch": 8,
+      "train_loss": 4.256380269693774,
+      "validation_loss": 5.102474689483643
+    },
+    {
+      "epoch": 9,
+      "train_loss": 4.128236033195673,
+      "validation_loss": 5.118931770324707
+    },
+    {
+      "epoch": 10,
+      "train_loss": 4.028913586638694,
+      "validation_loss": 5.143617630004883
+    },
+    {
+      "epoch": 11,
+      "train_loss": 3.8933238761369573,
+      "validation_loss": 5.176564693450928
+    },
+    {
+      "epoch": 12,
+      "train_loss": 3.7930373258368912,
+      "validation_loss": 5.224361896514893
+    },
+    {
+      "epoch": 13,
+      "train_loss": 3.651840032533158,
+      "validation_loss": 5.251758098602295
+    },
+    {
+      "epoch": 14,
+      "train_loss": 3.5354633275852647,
+      "validation_loss": 5.30525541305542
+    },
+    {
+      "epoch": 15,
+      "train_loss": 3.434572513713393,
+      "validation_loss": 5.346092224121094
+    },
+    {
+      "epoch": 16,
+      "train_loss": 3.3126600953035577,
+      "validation_loss": 5.396048545837402
+    },
+    {
+      "epoch": 17,
+      "train_loss": 3.200721868248873,
+      "validation_loss": 5.460196018218994
+    },
+    {
+      "epoch": 18,
+      "train_loss": 3.0821969952694204,
+      "validation_loss": 5.513257026672363
+    },
+    {
+      "epoch": 19,
+      "train_loss": 2.9813346585562064,
+      "validation_loss": 5.582344055175781
+    },
+    {
+      "epoch": 20,
+      "train_loss": 2.888066192005956,
+      "validation_loss": 5.6432037353515625
+    },
+    {
+      "epoch": 21,
+      "train_loss": 2.800579536792844,
+      "validation_loss": 5.696248531341553
+    },
+    {
+      "epoch": 22,
+      "train_loss": 2.7061004139656246,
+      "validation_loss": 5.759053707122803
+    },
+    {
+      "epoch": 23,
+      "train_loss": 2.62182186925134,
+      "validation_loss": 5.823067665100098
+    },
+    {
+      "epoch": 24,
+      "train_loss": 2.5415338416432225,
+      "validation_loss": 5.88679838180542
+    },
+    {
+      "epoch": 25,
+      "train_loss": 2.464279063912325,
+      "validation_loss": 5.951239585876465
+    }
+  ],
+  "seed": 41927,
+  "limitations": [
+    "Small English poetic language model; names use readability and exact-copy filters.",
+    "Not a large language model; human judgments of title quality vary."
+  ]
+}

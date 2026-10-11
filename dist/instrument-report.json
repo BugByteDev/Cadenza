@@ -1,0 +1,194 @@
+[
+  {
+    "family": "cello",
+    "enabled": true,
+    "test_loss": [
+      2.4960466904286944,
+      1.1018668736294663,
+      1.0195153000712311,
+      0.5840317998368499,
+      1.8906033228029904,
+      0.538224857774669
+    ],
+    "baseline": [
+      2.9981108103784044,
+      1.6521645006377272,
+      1.5365579753980887,
+      1.9042683832113634,
+      2.188019522954093,
+      0.5917613780553589
+    ],
+    "statistics": {
+      "validation_performances": 104,
+      "validation_frames": 47006,
+      "train_performances": 192,
+      "train_frames": 86700,
+      "test_performances": 107,
+      "test_frames": 38581,
+      "mutopia_added_files": 403,
+      "mutopia_existing_composer_files_excluded": 0
+    },
+    "split": "composer-disjoint",
+    "pretrained": false
+  },
+  {
+    "family": "strings",
+    "enabled": true,
+    "test_loss": [
+      2.685362090434792,
+      0.878044873517022,
+      1.1213184690759685,
+      0.26433410714493605,
+      1.9490648957907961,
+      0.5734547208832361
+    ],
+    "baseline": [
+      3.716889092344131,
+      1.2029864488486317,
+      1.4826390665531999,
+      1.1462840342741425,
+      2.256183979435308,
+      0.698238909136727
+    ],
+    "statistics": {
+      "test_performances": 5,
+      "test_frames": 6554,
+      "train_performances": 49,
+      "train_frames": 40095,
+      "validation_performances": 3,
+      "validation_frames": 3020,
+      "mutopia_added_files": 57,
+      "mutopia_existing_composer_files_excluded": 0
+    },
+    "split": "composer-disjoint",
+    "pretrained": false
+  },
+  {
+    "family": "violin",
+    "enabled": true,
+    "test_loss": [
+      2.507681988818519,
+      0.8802735377672921,
+      1.0468641464493018,
+      0.21805152216837698,
+      1.987298441256954,
+      0.7092889739885363
+    ],
+    "baseline": [
+      3.5252638931928684,
+      1.4526986646437157,
+      1.544703000906038,
+      1.4443105047784095,
+      2.260101159968015,
+      0.7665379468006462
+    ],
+    "statistics": {
+      "validation_performances": 120,
+      "validation_frames": 94486,
+      "train_performances": 468,
+      "train_frames": 277258,
+      "test_performances": 107,
+      "test_frames": 71805,
+      "mutopia_added_files": 695,
+      "mutopia_existing_composer_files_excluded": 0
+    },
+    "split": "composer-disjoint",
+    "pretrained": false
+  },
+  {
+    "family": "bassoon",
+    "enabled": true,
+    "test_loss": [
+      2.632368092431999,
+      1.706823223086033,
+      1.7308394378438263,
+      1.3581423584581296,
+      2.1873943450106967,
+      0.631339000897769
+    ],
+    "baseline": [
+      2.849170070421941,
+      2.028466630062256,
+      2.053987487258574,
+      1.8144769622779555,
+      2.2531759675974405,
+      0.6378764271413226
+    ],
+    "statistics": {
+      "validation_performances": 19,
+      "validation_frames": 9238,
+      "train_performances": 88,
+      "train_frames": 36588,
+      "test_performances": 14,
+      "test_frames": 2484,
+      "mutopia_added_files": 121,
+      "mutopia_existing_composer_files_excluded": 0
+    },
+    "split": "composer-disjoint",
+    "pretrained": false
+  },
+  {
+    "family": "clarinet",
+    "enabled": true,
+    "test_loss": [
+      2.65137592761784,
+      1.8339666034270585,
+      1.6168224544115453,
+      1.0519483470689142,
+      2.1120369485568316,
+      0.853274543416244
+    ],
+    "baseline": [
+      3.398202883235801,
+      1.876378497926436,
+      1.8133622347005678,
+      1.6781094936368517,
+      2.255702852229121,
+      0.8170595826116264
+    ],
+    "statistics": {
+      "validation_performances": 19,
+      "validation_frames": 8730,
+      "train_performances": 92,
+      "train_frames": 35189,
+      "test_performances": 12,
+      "test_frames": 2541,
+      "mutopia_added_files": 123,
+      "mutopia_existing_composer_files_excluded": 0
+    },
+    "split": "composer-disjoint",
+    "pretrained": false
+  },
+  {
+    "family": "flute",
+    "enabled": true,
+    "test_loss": [
+      2.857265738553779,
+      1.6195074037063955,
+      1.4554155216660611,
+      0.9462075876635174,
+      2.1707264035247094,
+      0.7686563181322674
+    ],
+    "baseline": [
+      3.7408524190265497,
+      1.780390775076108,
+      1.670957817078567,
+      1.7018709333091002,
+      2.2590704102125,
+      0.8126669897120689
+    ],
+    "statistics": {
+      "validation_performances": 30,
+      "validation_frames": 14521,
+      "train_performances": 79,
+      "train_frames": 27032,
+      "test_performances": 18,
+      "test_frames": 2618,
+      "mutopia_added_files": 127,
+      "mutopia_existing_composer_files_excluded": 0
+    },
+    "split": "composer-disjoint",
+    "pretrained": false
+  }
+]

@@ -1,0 +1,861 @@
+{
+  "records": [
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Fidelio Overture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=377",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip",
+      "archive_member": "fidelio.mid",
+      "sha256": "f127b091d90713dd2aa192305ff0b68b8066de00ff31eb8856618736f097edcd",
+      "file": "f127b091d90713dd2aa192305ff0b68b8066de00ff31eb8856618736f097edcd.mid",
+      "split": "test",
+      "extracted_frames": 1761
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Fidelio Overture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=377",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip",
+      "archive_member": "viola_sc.mid",
+      "sha256": "8cecd6399910708082233bd18f91a29c784f337c0e25685b5759340665e31d0d",
+      "file": "8cecd6399910708082233bd18f91a29c784f337c0e25685b5759340665e31d0d.mid",
+      "split": "test",
+      "extracted_frames": 1060
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Fidelio Overture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=377",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip",
+      "archive_member": "violino1_sc.mid",
+      "sha256": "cb198c4152aa8161e464e709079c88ae2c34405f16f345a5e70e55470eb6647e",
+      "file": "cb198c4152aa8161e464e709079c88ae2c34405f16f345a5e70e55470eb6647e.mid",
+      "split": "test",
+      "extracted_frames": 1593
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Fidelio Overture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=377",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip",
+      "archive_member": "violino2_sc.mid",
+      "sha256": "f70bd2f58c8c0aae810e41fd472c49318de54487e7c073521f81b73fb59dcf93",
+      "file": "f70bd2f58c8c0aae810e41fd472c49318de54487e7c073521f81b73fb59dcf93.mid",
+      "split": "test",
+      "extracted_frames": 1342
+    },
+    {
+      "composer": "L. V. Beethoven (1770\u20131827)",
+      "title": "Fidelio Overture",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=377",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/BeethovenLv/O72b/fidelio/fidelio-mids.zip",
+      "archive_member": "violoncello_sc.mid",
+      "sha256": "a11929e5e9e5284e0af4fee8d21f443e70cf400ca3a0ba540a04268af6e869dd",
+      "file": "a11929e5e9e5284e0af4fee8d21f443e70cf400ca3a0ba540a04268af6e869dd.mid",
+      "split": "test",
+      "extracted_frames": 798
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_conductor-1.mid",
+      "sha256": "c3f653fb9caaa015c7631d1d2c8756519b9ba671cb4285317034e10816045b1b",
+      "file": "c3f653fb9caaa015c7631d1d2c8756519b9ba671cb4285317034e10816045b1b.mid",
+      "split": "train",
+      "extracted_frames": 1161
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_conductor-2.mid",
+      "sha256": "6c8b5fb7de336be7139fba97ea01ab29f753ee7f06047f5566b0c095f66d9404",
+      "file": "6c8b5fb7de336be7139fba97ea01ab29f753ee7f06047f5566b0c095f66d9404.mid",
+      "split": "train",
+      "extracted_frames": 2091
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_conductor-3.mid",
+      "sha256": "e5c88184e7b5b12c088448caaa78b774d88f5afb0dbd3d399b7ef01e9457dd8c",
+      "file": "e5c88184e7b5b12c088448caaa78b774d88f5afb0dbd3d399b7ef01e9457dd8c.mid",
+      "split": "train",
+      "extracted_frames": 2290
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_conductor.mid",
+      "sha256": "a6875df7f306370e2da61cd6ab4003d882a1f0eb4940fdfcb81d98023171c887",
+      "file": "a6875df7f306370e2da61cd6ab4003d882a1f0eb4940fdfcb81d98023171c887.mid",
+      "split": "train",
+      "extracted_frames": 2341
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Contrabasso-1.mid",
+      "sha256": "0eddf94486290a7d9ac52687530db300c713186a9c8e9200869fee95c6f41d64",
+      "file": "0eddf94486290a7d9ac52687530db300c713186a9c8e9200869fee95c6f41d64.mid",
+      "split": "train",
+      "extracted_frames": 68
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Contrabasso-2.mid",
+      "sha256": "08992aa0fb4ed9cc641825ae3dd3bfa07c08b6437f24ae9f0368866de1d6383c",
+      "file": "08992aa0fb4ed9cc641825ae3dd3bfa07c08b6437f24ae9f0368866de1d6383c.mid",
+      "split": "train",
+      "extracted_frames": 406
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Contrabasso-3.mid",
+      "sha256": "a5805707b6aaa755421db0ebf02dcc58c539b4ad10f3f71096e9e96635b909b9",
+      "file": "a5805707b6aaa755421db0ebf02dcc58c539b4ad10f3f71096e9e96635b909b9.mid",
+      "split": "train",
+      "extracted_frames": 465
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Contrabasso.mid",
+      "sha256": "b06c29ccb714f2a60423d6db8d74c8b4290639cc4e38cedc33881e6e7f7ffd1b",
+      "file": "b06c29ccb714f2a60423d6db8d74c8b4290639cc4e38cedc33881e6e7f7ffd1b.mid",
+      "split": "train",
+      "extracted_frames": 349
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Viola-1.mid",
+      "sha256": "21a8d77535ea4f01b189ab73b053bce07eee08967a11c061b54ef8de985e1246",
+      "file": "21a8d77535ea4f01b189ab73b053bce07eee08967a11c061b54ef8de985e1246.mid",
+      "split": "train",
+      "extracted_frames": 442
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Viola-2.mid",
+      "sha256": "aa6c7784b83c30269f15e7194d8acc1633d91fce5663412c67ab0345c8e33d9d",
+      "file": "aa6c7784b83c30269f15e7194d8acc1633d91fce5663412c67ab0345c8e33d9d.mid",
+      "split": "train",
+      "extracted_frames": 1133
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Viola-3.mid",
+      "sha256": "d2a6f464fe4ede27b427b06f6f83d209b28b7f8af825c894f66b049d53a7e665",
+      "file": "d2a6f464fe4ede27b427b06f6f83d209b28b7f8af825c894f66b049d53a7e665.mid",
+      "split": "train",
+      "extracted_frames": 1313
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Viola.mid",
+      "sha256": "d5f1371077b90a4095050a5a321ba2683f93fa215234ccf4d33f162371faa9dc",
+      "file": "d5f1371077b90a4095050a5a321ba2683f93fa215234ccf4d33f162371faa9dc.mid",
+      "split": "train",
+      "extracted_frames": 1319
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violino_I-1.mid",
+      "sha256": "c47180d13f2c4f1058be6079248d6e35dbc80a758cc40a9d86592f5bf9788de9",
+      "file": "c47180d13f2c4f1058be6079248d6e35dbc80a758cc40a9d86592f5bf9788de9.mid",
+      "split": "train",
+      "extracted_frames": 625
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violino_I-2.mid",
+      "sha256": "ae35e816777032051bd071da857fc130b30544a3b77fe4e2ea937a7e3ba65574",
+      "file": "ae35e816777032051bd071da857fc130b30544a3b77fe4e2ea937a7e3ba65574.mid",
+      "split": "train",
+      "extracted_frames": 1059
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violino_I-3.mid",
+      "sha256": "ced601c87f373e386258a8a3ab30c4f5bc7fb3c1a2b971050a3f30273dffa738",
+      "file": "ced601c87f373e386258a8a3ab30c4f5bc7fb3c1a2b971050a3f30273dffa738.mid",
+      "split": "train",
+      "extracted_frames": 1352
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violino_II-1.mid",
+      "sha256": "920d8fe411a6aaf804e23de9cee73df37a6768a32a92289fea66e2761092ba0a",
+      "file": "920d8fe411a6aaf804e23de9cee73df37a6768a32a92289fea66e2761092ba0a.mid",
+      "split": "train",
+      "extracted_frames": 519
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violino_II-2.mid",
+      "sha256": "10a4d3f5d62baecd4194247fff2c4579ae0d52cb6d6e7a69908b1e422384adfe",
+      "file": "10a4d3f5d62baecd4194247fff2c4579ae0d52cb6d6e7a69908b1e422384adfe.mid",
+      "split": "train",
+      "extracted_frames": 1030
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violino_II-3.mid",
+      "sha256": "d1a92bca9e9a3352246303ea61b930b34db436d0201bd117dcbf065fd1c52e87",
+      "file": "d1a92bca9e9a3352246303ea61b930b34db436d0201bd117dcbf065fd1c52e87.mid",
+      "split": "train",
+      "extracted_frames": 1542
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violino_II.mid",
+      "sha256": "376957f427449865bf1bffc7883ea2e205a1f7711f63fb3b8fc119385b26e277",
+      "file": "376957f427449865bf1bffc7883ea2e205a1f7711f63fb3b8fc119385b26e277.mid",
+      "split": "train",
+      "extracted_frames": 1235
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violino_I.mid",
+      "sha256": "98ef322fa4ae166666e860f0470eee055785d3c86a72d95663f65c7d20b9eaaf",
+      "file": "98ef322fa4ae166666e860f0470eee055785d3c86a72d95663f65c7d20b9eaaf.mid",
+      "split": "train",
+      "extracted_frames": 1112
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violoncello-1.mid",
+      "sha256": "89b37732f48c4800a2ae03c4a936b6bc310d54a29ea44f87b81dbc98c2a5afa0",
+      "file": "89b37732f48c4800a2ae03c4a936b6bc310d54a29ea44f87b81dbc98c2a5afa0.mid",
+      "split": "train",
+      "extracted_frames": 572
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violoncello-2.mid",
+      "sha256": "23fc18dc8fab6defb3aba2d7a2f666bc9a57179c89a5c07f1973207e27f88f89",
+      "file": "23fc18dc8fab6defb3aba2d7a2f666bc9a57179c89a5c07f1973207e27f88f89.mid",
+      "split": "train",
+      "extracted_frames": 1391
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violoncello-3.mid",
+      "sha256": "09953b819b29ea5c52846a3bd9e6938d38d6d1154515d83794a64f6701372a75",
+      "file": "09953b819b29ea5c52846a3bd9e6938d38d6d1154515d83794a64f6701372a75.mid",
+      "split": "train",
+      "extracted_frames": 1248
+    },
+    {
+      "composer": "A. Dvo\u0159\u00e1k (1841\u20131904)",
+      "title": "Symphony Nr. 7",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1901",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/DvorakA/O70/DvorakSYMPH7/DvorakSYMPH7-mids.zip",
+      "archive_member": "DvorakSYMPH7_part_Violoncello.mid",
+      "sha256": "74bbfd860581c1dd143207f0fe2114a9d4bbf2113fcfc9d61937c99deb942451",
+      "file": "74bbfd860581c1dd143207f0fe2114a9d4bbf2113fcfc9d61937c99deb942451.mid",
+      "split": "train",
+      "extracted_frames": 1186
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-basso-1.mid",
+      "sha256": "9f451b63b883da447115492ff5f1bb07d119a9af7eb7fdfc7aa2ad80b0e2cb17",
+      "file": "9f451b63b883da447115492ff5f1bb07d119a9af7eb7fdfc7aa2ad80b0e2cb17.mid",
+      "split": "train",
+      "extracted_frames": 223
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-basso-2.mid",
+      "sha256": "40dc7c27c8105f384fc0e35b2d3452d321d6dd676623ba51618c6376e7ead635",
+      "file": "40dc7c27c8105f384fc0e35b2d3452d321d6dd676623ba51618c6376e7ead635.mid",
+      "split": "train",
+      "extracted_frames": 77
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-basso-3.mid",
+      "sha256": "eecc2cf7c81d1ddd8dfb2f6b9711403ad1bf2d562159a487b953dde1b3dde32b",
+      "file": "eecc2cf7c81d1ddd8dfb2f6b9711403ad1bf2d562159a487b953dde1b3dde32b.mid",
+      "split": "train",
+      "extracted_frames": 932
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-basso.mid",
+      "sha256": "8985bd7fe9cbbff0a0b8ea94853ff5ef8de1061d09d168996958c05dfe6117e8",
+      "file": "8985bd7fe9cbbff0a0b8ea94853ff5ef8de1061d09d168996958c05dfe6117e8.mid",
+      "split": "train",
+      "extracted_frames": 545
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-viola-1.mid",
+      "sha256": "a68b637f83ee2d0dd92a22c5ad0f296f364a2a2cb4fe96d2642d4a95cea68738",
+      "file": "a68b637f83ee2d0dd92a22c5ad0f296f364a2a2cb4fe96d2642d4a95cea68738.mid",
+      "split": "train",
+      "extracted_frames": 268
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-viola-2.mid",
+      "sha256": "4c7c597906acda51c234bd73f3d8fc9ed06e38a84c24f27cf5ee259688587b21",
+      "file": "4c7c597906acda51c234bd73f3d8fc9ed06e38a84c24f27cf5ee259688587b21.mid",
+      "split": "train",
+      "extracted_frames": 128
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-viola-3.mid",
+      "sha256": "d9d5cae8fac329b5809e2a424efeee03aaf74e48a600d7dd0f99a79d1542d731",
+      "file": "d9d5cae8fac329b5809e2a424efeee03aaf74e48a600d7dd0f99a79d1542d731.mid",
+      "split": "train",
+      "extracted_frames": 791
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-viola.mid",
+      "sha256": "c80eddfc9297f90b7d1deb26684c1ef8873e59ec5d2455341c9c928b3e35bb63",
+      "file": "c80eddfc9297f90b7d1deb26684c1ef8873e59ec5d2455341c9c928b3e35bb63.mid",
+      "split": "train",
+      "extracted_frames": 613
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-violin1-1.mid",
+      "sha256": "4b6c88f6c9b7d1329e71a721db60f0e845db72d72c895056e80d7e01121176bf",
+      "file": "4b6c88f6c9b7d1329e71a721db60f0e845db72d72c895056e80d7e01121176bf.mid",
+      "split": "train",
+      "extracted_frames": 405
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-violin1-2.mid",
+      "sha256": "71334a46de7d5f1801deb2d6b18e30f9668e0ffda8ed10f41a98538b38c6d2d9",
+      "file": "71334a46de7d5f1801deb2d6b18e30f9668e0ffda8ed10f41a98538b38c6d2d9.mid",
+      "split": "train",
+      "extracted_frames": 97
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-violin1-3.mid",
+      "sha256": "d0f2c2df4b3fd0934190f84208c7ba3ad90fd69aa0c31e5d56c0899a5b539115",
+      "file": "d0f2c2df4b3fd0934190f84208c7ba3ad90fd69aa0c31e5d56c0899a5b539115.mid",
+      "split": "train",
+      "extracted_frames": 931
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-violin1.mid",
+      "sha256": "d3996f24741d359d3bfc1a7b143d8e2e2e24b45adcaab962b81a0e88974efb4d",
+      "file": "d3996f24741d359d3bfc1a7b143d8e2e2e24b45adcaab962b81a0e88974efb4d.mid",
+      "split": "train",
+      "extracted_frames": 707
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-violin2-1.mid",
+      "sha256": "f1728d3f989fbe96dc9e964ecda39b85db9cfc35be2d86cd94139fc29b7f6e28",
+      "file": "f1728d3f989fbe96dc9e964ecda39b85db9cfc35be2d86cd94139fc29b7f6e28.mid",
+      "split": "train",
+      "extracted_frames": 351
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-violin2-2.mid",
+      "sha256": "19c3b08da7b9a83bb7c2a2222ed7e05685614ed838d2194f4d67fe5b3cc952cb",
+      "file": "19c3b08da7b9a83bb7c2a2222ed7e05685614ed838d2194f4d67fe5b3cc952cb.mid",
+      "split": "train",
+      "extracted_frames": 113
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-violin2-3.mid",
+      "sha256": "6f76509d48c1eb5f835b4c7a355d129aed85d86888df23d6e43e7da1f04b5b04",
+      "file": "6f76509d48c1eb5f835b4c7a355d129aed85d86888df23d6e43e7da1f04b5b04.mid",
+      "split": "train",
+      "extracted_frames": 803
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Symphony nr. 18 in F major K. 130",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=346",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV130/k130/k130-mids.zip",
+      "archive_member": "k130-violin2.mid",
+      "sha256": "70eb13e7aa23e93464048c1e70212000bd177e777451a497e1b55c09dfed1227",
+      "file": "70eb13e7aa23e93464048c1e70212000bd177e777451a497e1b55c09dfed1227.mid",
+      "split": "train",
+      "extracted_frames": 709
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Concerto in C for Flute and Harp",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1026",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip",
+      "archive_member": "DirectorScore-2.mid",
+      "sha256": "75cfbbb480344463213700cd6d2de465d34be6b50e02b9c386907b7f7ad1bdf6",
+      "file": "75cfbbb480344463213700cd6d2de465d34be6b50e02b9c386907b7f7ad1bdf6.mid",
+      "split": "train",
+      "extracted_frames": 1197
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Concerto in C for Flute and Harp",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1026",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip",
+      "archive_member": "DirectorScore-3.mid",
+      "sha256": "bfae0b6de2d9bc62fcfe68277ca85068fec89e56a09dc1984a21c2ef9f00b094",
+      "file": "bfae0b6de2d9bc62fcfe68277ca85068fec89e56a09dc1984a21c2ef9f00b094.mid",
+      "split": "train",
+      "extracted_frames": 1260
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Concerto in C for Flute and Harp",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1026",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip",
+      "archive_member": "DirectorScore-4.mid",
+      "sha256": "c1cc8058fde4d824bc5cdc5a0a69d7d83c93356b8d0cdcfe3b40038274fdf654",
+      "file": "c1cc8058fde4d824bc5cdc5a0a69d7d83c93356b8d0cdcfe3b40038274fdf654.mid",
+      "split": "train",
+      "extracted_frames": 820
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Concerto in C for Flute and Harp",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1026",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip",
+      "archive_member": "DirectorScore-5.mid",
+      "sha256": "689d9dbe013f3ddf0afa32df2d9d09611598207e3f26b602abf2c7de3519b815",
+      "file": "689d9dbe013f3ddf0afa32df2d9d09611598207e3f26b602abf2c7de3519b815.mid",
+      "split": "train",
+      "extracted_frames": 741
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Concerto in C for Flute and Harp",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1026",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV299/Mozart-Concerto/Mozart-Concerto-mids.zip",
+      "archive_member": "DirectorScore-6.mid",
+      "sha256": "4bd314152fd38e0d18f4db39096d646a56c2b8bb61c8fde89b18f87404973fe3",
+      "file": "4bd314152fd38e0d18f4db39096d646a56c2b8bb61c8fde89b18f87404973fe3.mid",
+      "split": "train",
+      "extracted_frames": 741
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Andante in C Major K. 315",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=344",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV315/k315/k315-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV315/k315/k315-mids.zip",
+      "archive_member": "k315-basso.mid",
+      "sha256": "52a0a134b3fed17a2666343d8809f414dcf2d42828f24e5f6067112815e9f2df",
+      "file": "52a0a134b3fed17a2666343d8809f414dcf2d42828f24e5f6067112815e9f2df.mid",
+      "split": "train",
+      "extracted_frames": 189
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Andante in C Major K. 315",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=344",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV315/k315/k315-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV315/k315/k315-mids.zip",
+      "archive_member": "k315-viola.mid",
+      "sha256": "c02044e5fb9d1d8c83a177c14586e606a31068e7a87e4a131104b7d9ba2761ac",
+      "file": "c02044e5fb9d1d8c83a177c14586e606a31068e7a87e4a131104b7d9ba2761ac.mid",
+      "split": "train",
+      "extracted_frames": 285
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Andante in C Major K. 315",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=344",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV315/k315/k315-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV315/k315/k315-mids.zip",
+      "archive_member": "k315-violin1.mid",
+      "sha256": "43ce9c15be5d754cef6a7f8301f7916a4b33118d242aafa2d8f5719c9ae25a72",
+      "file": "43ce9c15be5d754cef6a7f8301f7916a4b33118d242aafa2d8f5719c9ae25a72.mid",
+      "split": "train",
+      "extracted_frames": 464
+    },
+    {
+      "composer": "W. A. Mozart (1756\u20131791)",
+      "title": "Andante in C Major K. 315",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=344",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/MozartWA/KV315/k315/k315-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/MozartWA/KV315/k315/k315-mids.zip",
+      "archive_member": "k315-violin2.mid",
+      "sha256": "b70db6f9c481b81cb541cbdb3d1e61212ddc9a21b5309baa1160a415d75b5921",
+      "file": "b70db6f9c481b81cb541cbdb3d1e61212ddc9a21b5309baa1160a415d75b5921.mid",
+      "split": "train",
+      "extracted_frames": 456
+    },
+    {
+      "composer": "P. I. Tchaikovsky (1840\u20131893)",
+      "title": "Violin Concerto in D Major (All three movements)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=466",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip",
+      "archive_member": "tchai_op35-2.mid",
+      "sha256": "22c6c11ccade18d8121e6487cde20d18a84be3c8ca3cab4bb2c7c4123421ca8d",
+      "file": "22c6c11ccade18d8121e6487cde20d18a84be3c8ca3cab4bb2c7c4123421ca8d.mid",
+      "split": "validation",
+      "extracted_frames": 1078
+    },
+    {
+      "composer": "P. I. Tchaikovsky (1840\u20131893)",
+      "title": "Violin Concerto in D Major (All three movements)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=466",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip",
+      "archive_member": "tchai_op35-1.mid",
+      "sha256": "d1f909fd75918d61af6a457621d540e91637df4223ee4d452be86c14bc5f095c",
+      "file": "d1f909fd75918d61af6a457621d540e91637df4223ee4d452be86c14bc5f095c.mid",
+      "split": "validation",
+      "extracted_frames": 216
+    },
+    {
+      "composer": "P. I. Tchaikovsky (1840\u20131893)",
+      "title": "Violin Concerto in D Major (All three movements)",
+      "license": "Public Domain",
+      "source_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=466",
+      "midi_urls": [
+        "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip"
+      ],
+      "download_url": "https://www.mutopiaproject.org/ftp/TchaikovskyPI/O35/tchai_op35/tchai_op35-mids.zip",
+      "archive_member": "tchai_op35.mid",
+      "sha256": "752c04565cf1287ff3a4983ee9e561fdb7cd26c5fa78994a02f795deb516a88e",
+      "file": "752c04565cf1287ff3a4983ee9e561fdb7cd26c5fa78994a02f795deb516a88e.mid",
+      "split": "validation",
+      "extracted_frames": 1726
+    }
+  ],
+  "selection": "Composer-disjoint specialist splits; initialized from scratch.",
+  "maestro_composer_counts": {}
+}
