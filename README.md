@@ -4,6 +4,8 @@ A local experimental AI classical composer. Generate eight fresh candidates, sel
 
 ![Cadenza icon](dist/assets/icon-192.png)
 
+[Open the browser app](https://bugbytedev.github.io/Cadenza/) · [Download desktop source and macOS app](https://github.com/BugByteDev/Cadenza/releases/latest)
+
 ## Desktop: macOS, Windows and Linux
 
 Install Python 3.11+ with Tk, Node.js 22+ and FFmpeg (including ffplay) on your PATH. The trained models, bundled JavaScript engine and recorded instrument banks are included; npm is only needed to rebuild browser dependencies.
@@ -12,7 +14,7 @@ Install Python 3.11+ with Tk, Node.js 22+ and FFmpeg (including ffplay) on your 
 - **macOS:** `brew install python python-tk node ffmpeg`, then run `python3 desktop.py`. The included app bundle uses installed runtimes.
 - **Ubuntu/Debian:** install `python3 python3-tk nodejs ffmpeg` through your package manager (Node must be 22+), then run `./launch-cadenza.sh`.
 
-Other desktop distributions can run the same Python and Node sources after installing those dependencies. Builds have been exercised on macOS; the GitHub Actions matrix is configured to check Windows and Linux, but those runs must pass before those platforms are described as verified.
+Other desktop distributions can run the same Python and Node sources after installing those dependencies. The native interface has been exercised on macOS. Automated model-generation, Python syntax and SoundFont rendering checks passed on Windows, Linux and macOS in GitHub Actions. These checks do not replace native GUI testing on Windows and Linux.
 
 The interface reflows and scrolls in small windows. Generated MIDI, note JSON and M4A are saved automatically to your library: `%LOCALAPPDATA%/Cadenza/generated` on Windows, `~/Library/Application Support/Cadenza/generated` on macOS, and `$XDG_DATA_HOME/Cadenza/generated` (or `~/.local/share/Cadenza/generated`) on Linux. Save buttons copy files to your chosen location. No premade songs are shipped as app generation resources.
 
