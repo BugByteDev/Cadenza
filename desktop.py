@@ -1,5 +1,9 @@
 """Native Python desktop UI; local neural engine, no browser or server."""
-import base64,json,queue,shutil,subprocess,threading,sys,os,tkinter as tk
+import sys
+if __name__ == "__main__" and len(sys.argv) == 1:
+ from startup import preflight
+ if not preflight():sys.exit(1)
+import base64,json,queue,shutil,subprocess,threading,os,tkinter as tk
 from tkinter import ttk,filedialog,messagebox
 from pathlib import Path
 from runtime import data_dir, executable, child_command,process_options

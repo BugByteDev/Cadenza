@@ -8,7 +8,7 @@ A local experimental AI classical composer. Generate eight fresh candidates, sel
 
 ## Desktop: Windows and Linux
 
-The Windows and Linux desktop packages include Python, Node, the trained models, recorded instruments, and an M4A encoder. No separately installed runtimes or browser are needed.
+The Windows and Linux desktop packages include Python, Node, the trained models, recorded instruments, and an M4A encoder. No separately installed runtimes are needed.
 
 - **Windows x64:** download `Cadenza-Windows-x64-Setup.exe` and install for your user account. The portable ZIP also works: extract it and open `Launch Cadenza.vbs`.
 - **Linux x64:** extract `Cadenza-Linux-x64.zip` and run `Cadenza/install.sh` to add an application-menu shortcut, or run the `Cadenza` executable directly. Built on Ubuntu 22.04; requires a graphical desktop and glibc 2.35 or newer.
@@ -21,11 +21,11 @@ To run from source, install Python 3.11+ with Tk, Node 22+, FFmpeg, and `pygame`
 
 The interface reflows and scrolls in small windows. Generated MIDI, note JSON and M4A are saved automatically to your library: `%LOCALAPPDATA%/Cadenza/generated` on Windows, `~/Library/Application Support/Cadenza/generated` on macOS, and `$XDG_DATA_HOME/Cadenza/generated` (or `~/.local/share/Cadenza/generated`) on Linux. Save buttons copy files to your chosen location. No premade songs are shipped as app generation resources.
 
-## Phones, tablets and browsers
+## Dependencies and first launch
 
-The responsive browser app runs local neural inference and recorded instrument rendering in workers. Serve `dist/` over HTTPS, or run `python3 serve.py` locally. For a static deployment, run `npm ci --ignore-scripts` and `npm run build:web` to copy sound banks into the browser build. On phones and tablets, use the hosted URL; localhost on your computer is not a public URL.
+Packaged Windows and Linux apps include their dependencies. Install, open Cadenza, and click Generate. The app checks its dependencies at startup; missing tools open a setup dialog with installation links, a Pygame install button and a Check again button. Damaged packaged downloads offer reinstall guidance.
 
-MIDI export and WAV audio rendering work without a backend. M4A export uses the local desktop/server FFmpeg encoder. Standalone browser builds offer WAV rather than claiming AAC encoding support on every browser. Add to Home Screen where supported. Assets used during online sessions are cached for offline use; sound banks must be loaded once. Browser history stores the latest 30 pieces locally; download MIDI for permanent storage.
+For source or the current macOS app, see [the complete dependency list and setup commands](DEPENDENCIES.txt): Python 3.11+ with Tk, Node 22+, FFmpeg and Pygame 2.6.1. If Python itself is missing, the source launcher provides setup guidance. Restart Cadenza after installing tools so PATH changes take effect.
 
 ## Models and training
 
@@ -46,6 +46,6 @@ Reports, dataset fingerprints and per-edition provenance are included. Read [MOD
 
 ## Development
 
-`npm ci --ignore-scripts`, `npm run build:web`, `node verify.mjs`, and `python3 portable_smoke.py`. Source rebuild uses NumPy: `python3 collect_repertoire.py`, `python3 train.py --epochs 30 --hidden 384 --init dist/general-initial.json`, then `python3 train_titles.py`. Training downloads the MAESTRO MIDI archive into RAM and needs several GB of RAM. Python inference is orchestrated by the native UI; the learned JS inference and SoundFont engine use Node.
+`npm ci --ignore-scripts`, `node verify.mjs`, and `python3 portable_smoke.py`. Source rebuild uses NumPy: `python3 collect_repertoire.py`, `python3 train.py --epochs 30 --hidden 384 --init dist/general-initial.json`, then `python3 train_titles.py`. Training downloads the MAESTRO MIDI archive into RAM and needs several GB of RAM. Python inference is orchestrated by the native UI; the learned JS inference and SoundFont engine use Node.
 
-GitHub Actions includes a desktop compatibility matrix and a manually triggered Pages deployment. The source release contains no authentication files or generated personal library. The desktop release workflow builds bundled Windows and Linux apps on native OS runners.
+GitHub Actions includes a desktop compatibility matrix and reproducible desktop release builds. The source release contains no authentication files or generated personal library. The desktop release workflow builds bundled Windows and Linux apps on native OS runners.

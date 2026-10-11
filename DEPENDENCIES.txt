@@ -1,0 +1,30 @@
+CADENZA DESKTOP DEPENDENCIES
+
+Windows and Linux packaged downloads include everything below. Usually you only install Cadenza. If an included file is missing, reinstall the complete package rather than installing tools separately.
+
+Source and current macOS app requirements:
+• Python 3.11 or newer, including Tk/Tcl (native interface)
+• Node.js 22 or newer (local music/title models and instrument engine)
+• FFmpeg with AAC encoding/decoding (M4A export and preview)
+• Pygame 2.6.1 with SDL (audio output)
+• Included dist/ models and sounds/ instrument banks
+
+macOS with Homebrew:
+brew install python python-tk node ffmpeg
+python3 -m pip install pygame==2.6.1
+Use the Python version matching the installed python-tk package.
+
+Windows source:
+Install Python from python.org with Tk and PATH enabled, Node 22+ from nodejs.org, and FFmpeg from the builds linked at ffmpeg.org/download.html. Add FFmpeg's bin folder to PATH.
+python -m pip install pygame==2.6.1
+
+Ubuntu/Debian source:
+sudo apt install python3 python3-tk python3-venv ffmpeg
+python3 -m venv .venv
+.venv/bin/python -m pip install pygame==2.6.1
+Install Node.js 22+ from nodejs.org if your distribution supplies an older version.
+.venv/bin/python desktop.py
+
+All desktop versions need a graphical desktop, working audio output and a supported 64-bit operating system. Linux x64 packages require glibc 2.35+; ARM64 packages require glibc 2.39+. Packages are unsigned.
+
+Included third-party libraries: Tcl/Tk, SDL/Pygame, SpessaSynth Core, fflate, Node.js, Python and FFmpeg. Licenses and runtime source notices accompany the packaged app. NumPy is needed only for retraining; npm is needed only for development rebuilds.
