@@ -1,7 +1,7 @@
 """Cross-platform sampled audio rendering. Piano recordings or bundled SF2 engine."""
 import json,shutil,subprocess,tempfile,sys
 from pathlib import Path
-from runtime import executable
+from runtime import executable,process_options
 ROOT=Path(__file__).resolve().parent
 
 def render(piece,output,rate=44100):
@@ -14,9 +14,9 @@ def render(piece,output,rate=44100):
         source=Path(temp)/'piece.json';source.write_text(json.dumps(piece))
         errors=Path(temp)/'synth.log'
         with errors.open('wb') as log:
-            synth=subprocess.Popen([node,str(ROOT/'render_soundfont.mjs'),str(source)],stdout=subprocess.PIPE,stderr=log)
+            synth=subprocess.Popen([node,str(ROOT/'render_soundfont.mjs'),str(source)],stdout=subprocess.PIPE,stderr=log,**process_options())
             try:
-                encode=subprocess.Popen([encoder,'-v','error','-y','-f','s16le','-ar',str(rate),'-ac','2','-i','pipe:0','-c:a','aac','-b:a','128k',str(output)],stdin=synth.stdout,stderr=subprocess.PIPE)
+                encode=subprocess.Popen([encoder,'-v','error','-y','-f','s16le','-ar',str(rate),'-ac','2','-i','pipe:0','-c:a','aac','-b:a','128k',str(output)],stdin=synth.stdout,stderr=subprocess.PIPE,**process_options())
                 synth.stdout.close();_,error=encode.communicate();code=synth.wait()
                 if code or encode.returncode:raise RuntimeError(errors.read_text(errors='replace')[-800:]+error.decode(errors='replace'))
             finally:

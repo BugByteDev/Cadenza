@@ -25,3 +25,8 @@ def data_dir():
 def child_command(mode, *args):
     if getattr(sys, 'frozen', False):return [sys.executable, mode, *map(str,args)]
     return [sys.executable, str(ROOT/'desktop.py'), mode, *map(str,args)]
+
+
+def process_options():
+    # Keep helper processes from opening console windows beside the desktop UI.
+    return {'creationflags': 0x08000000} if sys.platform=='win32' else {}
